@@ -27,7 +27,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # Education
-- **Ph.D. Student**, 2024 - present, Rutgers University, New Brunswick. <br>**Major:** Computer Science   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br>**Advisor**: Prof. <a href='http://www.yongfeng.me'>Yongfeng Zhang</a>
+- **Ph.D. Student**, 2024 - present, Rutgers University, New Brunswick, NJ, United States. <br>**Major:** Computer Science   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br>**Advisor**: Prof. <a href='http://www.yongfeng.me'>Yongfeng Zhang</a>
 
 - **M.Eng. Student**, 2020 - 2023, University of Science and Technology of China (USTC), Hefei, China. <br>**Major:** Computer Science (Data Science)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **GPA:** 3.92/4.30<br>**Advisors**: Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a>
 
