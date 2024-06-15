@@ -19,10 +19,9 @@ redirect_from:
 
 # Bio
 
-I received my M.E. degree in Data Science (Computer Science) under the supervision of Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a> from <a href='http://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a>, where I was a member of <a href='https://bigdata.ustc.edu.cn/'>Anhui Province Key Laboratory of Big Data Analysis and Application (BDAA)</a>, a part of <a href='http://cogskl.iflytek.com/'>State Key Laboratory of Cognitive Intelligence</a>. Prior to that, I obtained my B.Eng. degree in Computer Science from <a href='https://en.scu.edu.cn/'>Sichuan University (SCU)</a>. I was previously a research intern at Alibaba Group for almost 2 years funded by <a href='https://damo.alibaba.com/air/'>Alibaba Innovative Research (AIR) Program</a>.
+I received my M.E. degree in Data Science under the supervision of Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a> from <a href='http://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a>, where I was a member of <a href='https://bigdata.ustc.edu.cn/'>Anhui Province Key Laboratory of Big Data Analysis and Application (BDAA)</a>, a part of <a href='http://cogskl.iflytek.com/'>State Key Laboratory of Cognitive Intelligence</a>. Prior to that, I obtained my B.Eng. degree in Computer Science from <a href='https://en.scu.edu.cn/'>Sichuan University (SCU)</a>. 
 
-My research interests lie in the general area of machine learning and data mining, especially their application in recommendation system, knowledge graph, and social network, with a wish to build effective, efficient, and trustworthy models for emerging real-world data-driven scenarios.
-
+My research interests lie in machine learning and data mining, with an emphasis on graph neural networks, recommendation systems, and large language models (LLMs). Currently, I am especially interested in LLM for graphs, LLM agents, and LLM-enhanced recommendation.
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
@@ -31,12 +30,6 @@ My research interest includes neural machine translation and computer vision. I 
 - **M.Eng. Student**, 2020 - 2023, University of Science and Technology of China (USTC), Hefei, China. <br>**Major:** Data Science (Computer Science)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **GPA:** 3.92/4.30<br>**Advisors**: Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a>
 
 - **B.Eng. Student**, 2016 - 2020, Sichuan University (SCU), Chengdu, China. <br>**Major:** Computer Science and Technology   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **GPA:** 3.76/4.00
-
-# Internship Experiences
-- **Research Intern**, Alibaba Group, Hangzhou, China, *Dec 2021 - Nov 2023*<br>Projects: Graph-based Recommendation Systems
-
-# Teaching Experiences
-- **Teaching Assistant**, School of Computer Science and Technology, USTC, *Fall, 2021*<br>Course: Web Information Processing and Application (011179.01)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instructor: Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a>
 
 <!--
 # 🔥 News
@@ -67,15 +60,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **Semantic Interaction Matching Network for Few-shot Knowledge Graph Completion.** <br>Pengfei Luo, **Xi Zhu**, Tong Xu, Yi Zheng, Enhong Chen. <br>In ACM Transactions on the Web (**ACM TWEB**), 2022, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3589557)
 
+- **When Box Meets Graph Convolutional Networks in Tag-aware Recommendation.**<br> Fake Lin, Ziwei Zhao, **Xi Zhu**, Da Zhang, Shitian Shen, Xueying Li, Tong Xu, Suojuan Zhang, Enhong Chen.<br> In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**),2024, Accepted.
+
 - **H3GNN: Hybrid Hierarchical HyperGraph Neural Network for Personalized Session-based Recommendation.** <br>Zhizhuo Yin, Kai Han, Pengzi Wang, **Xi Zhu**. <br>In ACM Transactions on Information Systems (**ACM TOIS**), 2023, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3630002)
 
 - **Knowledge Graph Pruning for Recommendation.** <br>Fake Lin, **Xi Zhu**, Ziwei Zhao, Deqiang Huang, Yu Yu, Xueying Li, Tong Xu, Enhong Chen. <br>arXiv.
 
+- **DynLLM: When Large Language Models meet Dynamic Graph Recommendation.** <br>Ziwei Zhao, Fake Lin, **Xi Zhu**, Zhi Zheng, Tong Xu, Shitian Shen, Xueying Li, Zikai Yin, Enhong Chen. <br>In Submission to the 38th Annual Conference on Neural Information Processing Systems **(NeurIPS 2024)**.
+
 - **Adversarial Attack and Defense on Discrete Time Dynamic Graphs.** <br>Ziwei Zhao, Yu Yang, Zikai Yin, Tong Xu, **Xi Zhu**, Fake Lin, Xueying Li, Enhong Chen. <br>Submitted to IEEE Transactions on Knowledge and Data Engineering
 (**IEEE TKDE**), under review.
 
-- **MENDNet: Memory-Enhanced Dependency Network for Multi-Stock Movement Prediction.** <br>Submitted to the 40th International Conference on Data Engineering (**ICDE 2024**),
-in progress.
+- **MENDNet: Memory-Enhanced Dependency Network for Multi-Stock Movement Prediction.** <br>Che Liu, Pengfei Luo, **Xi Zhu**, Tong Xu, Enhong Chen<br>In Submission to ACM Transactions on Knowledge Discovery from Data (**ACM TKDD**), under review.
 
 # Honors and Awards
 - National Scholarship, *Dec 2019*
@@ -85,6 +81,13 @@ in progress.
 - First-class Comprehensive Scholarship of SCU, *2019*
 - Second-class Comprehensive Scholarship of SCU (two times), *2017, 2018*
 - Third Prize, National Undergraduate Mathematics Competition of China, *Dec 2017*
+
+# Internship Experiences
+- **Research Intern**, Alibaba Group, Hangzhou, China, *Dec 2021 - Nov 2023* <br>Funded by <a href='https://damo.alibaba.com/air/'>Alibaba Innovative Research (AIR) Program</a>.<br>Projects: Graph-based Recommendation Systems
+
+# Teaching Experiences
+- **Teaching Assistant**, School of Computer Science and Technology, USTC, *Fall, 2021*<br>Course: Web Information Processing and Application (011179.01)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instructor: Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a>
+
 
 <!--
 # Invited Talks
