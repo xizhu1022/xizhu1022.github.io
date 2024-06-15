@@ -17,17 +17,35 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# Bio
 
+I received my M.E. degree in Data Science (Computer Science) under the supervision of Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a> from <a href='http://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a>, where I was a member of <a href='https://bigdata.ustc.edu.cn/'>Anhui Province Key Laboratory of Big Data Analysis and Application (BDAA)</a>, a part of <a href='http://cogskl.iflytek.com/'>State Key Laboratory of Cognitive Intelligence</a>. Prior to that, I obtained my B.Eng. degree in Computer Science from <a href='https://en.scu.edu.cn/'>Sichuan University (SCU)</a>. I was previously a research intern at Alibaba Group for almost 2 years funded by <a href='https://damo.alibaba.com/air/'>Alibaba Innovative Research (AIR) Program</a>.
+
+My research interests lie in the general area of machine learning and data mining, especially their application in recommendation system, knowledge graph, and social network, with a wish to build effective, efficient, and trustworthy models for emerging real-world data-driven scenarios.
+
+<!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+-->
 
+# Education
+- **M.Eng. Student**, 2020 - 2023, University of Science and Technology of China (USTC), Hefei, China. <br>**Major:** Data Science (Computer Science)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **GPA:** 3.92/4.30<br>**Advisors**: Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a>
 
+- **B.Eng. Student**, 2016 - 2020, Sichuan University (SCU), Chengdu, China. <br>**Major:** Computer Science and Technology   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **GPA:** 3.76/4.00
+
+# Internship Experiences
+- **Research Intern**, Alibaba Group, Hangzhou, China, *Dec 2021 - Nov 2023*<br>Projects: Graph-based Recommendation Systems
+
+# Teaching Experiences
+- **Teaching Assistant**, School of Computer Science and Technology, USTC, *Fall, 2021*<br>Course: Web Information Processing and Application (011179.01)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instructor: Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a>
+
+<!--
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-->
 
-# 📝 Publications 
-
+# Publications 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,20 +57,50 @@ My research interest includes neural machine translation and computer vision. I 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+-->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Few-shot Link Prediction for Event-based Social Networks via Meta-learning.** <br> **Xi Zhu**, Pengfei Luo, Ziwei Zhao, Tong Xu, Aakas Lizhiyu, Yu Yu, Xueying Li, Enhong Chen. <br>In Proceedings of the 28th International Conference on Database Systems for Advanced Applications (**DASFAA 2023**), 2023, Accepted. [[Link]](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_3) [[Competition]](https://tianchi.aliyun.com/competition/entrance/532073/information)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs.** <br>**Xi Zhu**, Fake Lin, Ziwei Zhao, Tong Xu, Xiangyu Zhao, Zikai Yin, Xueying Li, Enhong Chen. <br>Submitted to ACM Transactions on Information Systems (**ACM TOIS**), under review.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Time-interval Aware Share Recommendation via Bi-directional Continuous Time Dynamic Graphs.** <br>Ziwei Zhao, **Xi Zhu**, Tong Xu, Aakas Lizhiyu, Yu Yu, Xueying Li, Zikai Yin, Enhong Chen. <br>In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**), 2023, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3539618.3591775)
 
-# 💬 Invited Talks
+- **Semantic Interaction Matching Network for Few-shot Knowledge Graph Completion.** <br>Pengfei Luo, **Xi Zhu**, Tong Xu, Yi Zheng, Enhong Chen. <br>In ACM Transactions on the Web (**ACM TWEB**), 2022, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3589557)
+
+- **H3GNN: Hybrid Hierarchical HyperGraph Neural Network for Personalized Session-based Recommendation.** <br>Zhizhuo Yin, Kai Han, Pengzi Wang, **Xi Zhu**. <br>In ACM Transactions on Information Systems (**ACM TOIS**), 2023, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3630002)
+
+- **Knowledge Graph Pruning for Recommendation.** <br>Fake Lin, **Xi Zhu**, Ziwei Zhao, Deqiang Huang, Yu Yu, Xueying Li, Tong Xu, Enhong Chen. <br>arXiv.
+
+- **Adversarial Attack and Defense on Discrete Time Dynamic Graphs.** <br>Ziwei Zhao, Yu Yang, Zikai Yin, Tong Xu, **Xi Zhu**, Fake Lin, Xueying Li, Enhong Chen. <br>Submitted to IEEE Transactions on Knowledge and Data Engineering
+(**IEEE TKDE**), under review.
+
+- **MENDNet: Memory-Enhanced Dependency Network for Multi-Stock Movement Prediction.** <br>Submitted to the 40th International Conference on Data Engineering (**ICDE 2024**),
+in progress.
+
+# Honors and Awards
+- National Scholarship, *Dec 2019*
+- Outstanding Undergraduate, *Jun 2020*
+- Meritorious Winner of Mathematical Contest in Modeling (MCM), COMAP, *Apr 2019*
+- First-class Freshman Academic Scholarship of USTC, *2020*
+- First-class Comprehensive Scholarship of SCU, *2019*
+- Second-class Comprehensive Scholarship of SCU (two times), *2017, 2018*
+- Third Prize, National Undergraduate Mathematics Competition of China, *Dec 2017*
+
+<!--
+# Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Patents 
+
+- **Method, System, Device and Storage Medium of Few-shot Knowledge Graph Completion.** <br> Tong Xu, Enhong Chen, Pengfei Luo, **Xi Zhu**. <br>CN114579769A, China, Granted.
+
+- **Model Training Method, Object Recommendation Algorithm and Related Devices for Realizing Object Recommendation.** <br>Zhizhuo Yin, **Xi Zhu**, Ziwei Zhao, Pengzi Wang, Yu Yu, Xueying Li. <br> ZL202310173248.7, China, Published.
+
+- **Methods, Devices, Equipment and Storage Media for Information Sharing Processing.** <br>Ziwei Zhao, Yu Yu, Xueying Li, **Xi Zhu**. <br> ZL202211328249.6, China, Published.
+
+- **Method, System, Device and Storage Medium of Knowledge Graph Pruning for Recommendation.** <br>Fake Lin, **Xi Zhu**, Ziwei Zhao, Shitian Shen, Xueying Li. <br> China, Pending.
+
+- **Method and System of Multi-behavior Recommendation Based on Directed Acyclic Behavior Graphs.** <br>**Xi Zhu**, Fake Lin, Ziwei Zhao, Shitian Shen, Xueying Li, Zhizhuo Yin, Pengzi Wang. <br> China, Pending.
+
