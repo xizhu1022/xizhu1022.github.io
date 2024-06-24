@@ -19,19 +19,23 @@ redirect_from:
 
 # Bio
 
-I am an incoming Ph.D. student in Computer Science at <a href='http://www.rutgers.edu/'>Rutgers University</a>, working with Prof. <a href='http://www.yongfeng.me'>Yongfeng Zhang</a>. I received my M.E. degree in Data Science under the supervision of Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a> from <a href='http://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a>, where I was a member of <a href='https://bigdata.ustc.edu.cn/'>Anhui Province Key Laboratory of Big Data Analysis and Application (BDAA)</a>, a part of <a href='http://cogskl.iflytek.com/'>State Key Laboratory of Cognitive Intelligence</a>. Prior to that, I obtained my B.Eng. degree in Computer Science from <a href='https://en.scu.edu.cn/'>Sichuan University (SCU)</a>. 
-
+I am Xi Zhu, an incoming Ph.D. student in Computer Science at <a href='http://www.rutgers.edu/'>Rutgers University</a>, working with Prof. <a href='http://www.yongfeng.me'>Yongfeng Zhang</a>. 
+<!--
+I received my M.E. degree in Data Science under the supervision of Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a> from <a href='http://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a>, where I was a member of <a href='https://bigdata.ustc.edu.cn/'>Anhui Province Key Laboratory of Big Data Analysis and Application (BDAA)</a>, a part of <a href='http://cogskl.iflytek.com/'>State Key Laboratory of Cognitive Intelligence</a>. Prior to that, I obtained my B.E. degree in Computer Science from <a href='https://en.scu.edu.cn/'>Sichuan University (SCU)</a>. 
+-->
 My research interests lie in machine learning and data mining, with an emphasis on graph neural networks, recommendation systems, and large language models (LLMs). Currently, I am especially interested in **LLM for graphs, LLM-based agents, and LLM-enhanced recommendation**.
+
+<p style="color: red;">I am open to any interesting discussions, feel free to drop me a message if you are interested. Please check out my CV <a href='https://drive.google.com/file/d/1nqvRzEVvnH8xFXgpun0VOcLB9LkFPUW6/view?usp=drive_link'>here</a>.</p>
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
 # Education
-- **Ph.D. Student**, 2024 - present, Rutgers University, New Brunswick, NJ, United States. <br>**Major:** Computer Science   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br>**Advisor**: Prof. <a href='http://www.yongfeng.me'>Yongfeng Zhang</a>
+- **Ph.D. Student**, 2024 - present, <a href='http://www.rutgers.edu/'>Rutgers University</a>, New Brunswick, NJ, USA. <br>**Major:** Computer Science   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br>**Advisor**: Prof. <a href='http://www.yongfeng.me'>Yongfeng Zhang</a>
 
-- **M.Eng. Student**, 2020 - 2023, University of Science and Technology of China (USTC), Hefei, China. <br>**Major:** Computer Science (Data Science)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **GPA:** 3.92/4.30<br>**Advisors**: Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a>
+- **M.E. Student**, 2020 - 2023, <a href='http://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a>, Hefei, China. <br>**Major:** Computer Science (Data Science)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **GPA:** 3.92/4.30<br>**Advisors**: Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen (IEEE Fellow)</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a><br>**Affiliation**: <a href='https://bigdata.ustc.edu.cn/'>Anhui Province Key Laboratory of Big Data Analysis and Application (BDAA)</a>, <a href='http://cogskl.iflytek.com/'>State Key Laboratory of Cognitive Intelligence</a>
 
-- **B.Eng. Student**, 2016 - 2020, Sichuan University (SCU), Chengdu, China. <br>**Major:** Computer Science and Technology   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **GPA:** 3.76/4.00
+- **B.E. Student**, 2016 - 2020, <a href='https://en.scu.edu.cn/'>Sichuan University (SCU)</a>, Chengdu, China. <br>**Major:** Computer Science   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **GPA:** 3.76/4.00
 
 <!--
 # 🔥 News
@@ -62,13 +66,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **Semantic Interaction Matching Network for Few-shot Knowledge Graph Completion.** <br>Pengfei Luo, **Xi Zhu**, Tong Xu, Yi Zheng, Enhong Chen. <br>In ACM Transactions on the Web (**ACM TWEB**), 2022, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3589557) [[Code]](https://github.com/pengfei-luo/SIM)
 
-- **When Box Meets Graph Convolutional Networks in Tag-aware Recommendation.**<br> Fake Lin, Ziwei Zhao, **Xi Zhu**, Da Zhang, Shitian Shen, Xueying Li, Tong Xu, Suojuan Zhang, Enhong Chen.<br> In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**),2024, Accepted.
+- **When Box Meets Graph Convolutional Network in Tag-aware Recommendation.**<br> Fake Lin, Ziwei Zhao, **Xi Zhu**, Da Zhang, Shitian Shen, Xueying Li, Tong Xu, Suojuan Zhang, Enhong Chen.<br> In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**),2024, Accepted. [[Link]](https://arxiv.org/abs/2406.12020) [[Code]](https://github.com/critical88/BoxGNN) 
 
 - **H3GNN: Hybrid Hierarchical HyperGraph Neural Network for Personalized Session-based Recommendation.** <br>Zhizhuo Yin, Kai Han, Pengzi Wang, **Xi Zhu**. <br>In ACM Transactions on Information Systems (**ACM TOIS**), 2023, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3630002)
 
 - **Knowledge Graph Pruning for Recommendation.** <br>Fake Lin, **Xi Zhu**, Ziwei Zhao, Deqiang Huang, Yu Yu, Xueying Li, Tong Xu, Enhong Chen. <br>In Submission to ACM Transactions on Information Systems (**ACM TOIS**). [[Link]](https://arxiv.org/abs/2405.11531)
 
-- **DynLLM: When Large Language Models meet Dynamic Graph Recommendation.** <br>Ziwei Zhao, Fake Lin, **Xi Zhu**, Zhi Zheng, Tong Xu, Shitian Shen, Xueying Li, Zikai Yin, Enhong Chen. <br>In Submission to the 38th Annual Conference on Neural Information Processing Systems **(NeurIPS 2024)**.[[Link]](https://arxiv.org/abs/2405.07580)
+- **DynLLM: When Large Language Models meet Dynamic Graph Recommendation.** <br>Ziwei Zhao, Fake Lin, **Xi Zhu**, Zhi Zheng, Tong Xu, Shitian Shen, Xueying Li, Zikai Yin, Enhong Chen. <br>In Submission.[[Link]](https://arxiv.org/abs/2405.07580)
 
 - **Adversarial Attack and Defense on Discrete Time Dynamic Graphs.** <br>Ziwei Zhao, Yu Yang, Zikai Yin, Tong Xu, **Xi Zhu**, Fake Lin, Xueying Li, Enhong Chen. <br>In Submission to IEEE Transactions on Knowledge and Data Engineering(**IEEE TKDE**).
 
@@ -98,13 +102,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Patents 
 
-- **Method, System, Device and Storage Medium of Few-shot Knowledge Graph Completion.** <br> Tong Xu, Enhong Chen, Pengfei Luo, **Xi Zhu**. <br>CN114579769A, China, Granted.
+- **Method, System, Device and Storage Medium of Few-shot Knowledge Graph Completion.** <br> Tong Xu, Enhong Chen, Pengfei Luo, **Xi Zhu**. <br> CN202210492838, China, Granted.
 
-- **Model Training Method, Object Recommendation Algorithm and Related Devices for Realizing Object Recommendation.** <br>Zhizhuo Yin, **Xi Zhu**, Ziwei Zhao, Pengzi Wang, Yu Yu, Xueying Li. <br> ZL202310173248.7, China, Published.
+- **Model Training Method, Object Recommendation Algorithm and Related Devices for Realizing Object Recommendation.** <br>Zhizhuo Yin, **Xi Zhu**, Ziwei Zhao, Pengzi Wang, Yu Yu, Xueying Li. <br> CN202310173248, China, Published.
 
-- **Methods, Devices, Equipment and Storage Media for Information Sharing Processing.** <br>Ziwei Zhao, Yu Yu, Xueying Li, **Xi Zhu**. <br> ZL202211328249.6, China, Published.
+- **Methods, Devices, Equipment and Storage Media for Information Sharing Processing.** <br>Ziwei Zhao, Yu Yu, Xueying Li, **Xi Zhu**. <br> CN202211328249, China, Published.
 
-- **Method, System, Device and Storage Medium of Knowledge Graph Pruning for Recommendation.** <br>Fake Lin, **Xi Zhu**, Ziwei Zhao, Shitian Shen, Xueying Li. <br> China, Published.
+- **Method, System, Device and Storage Medium of Knowledge Graph Pruning for Recommendation.** <br>Fake Lin, **Xi Zhu**, Ziwei Zhao, Shitian Shen, Xueying Li. <br> CN202310173248, China, Published.
 
-- **Method and System of Multi-behavior Recommendation Based on Directed Acyclic Behavior Graphs.** <br>**Xi Zhu**, Fake Lin, Ziwei Zhao, Shitian Shen, Xueying Li, Zhizhuo Yin, Pengzi Wang. <br> China, Published.
+- **Method and System of Multi-behavior Recommendation Based on Directed Acyclic Behavior Graphs.** <br>**Xi Zhu**, Fake Lin, Ziwei Zhao, Shitian Shen, Xueying Li, Zhizhuo Yin, Pengzi Wang. <br> CN202311146600, China, Published.
 
