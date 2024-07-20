@@ -58,23 +58,23 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 -->
 
-- **Few-shot Link Prediction for Event-based Social Networks via Meta-learning.** <br> **Xi Zhu**, Pengfei Luo, Ziwei Zhao, Tong Xu, Aakas Lizhiyu, Yu Yu, Xueying Li, Enhong Chen. <br>In Proceedings of the 28th International Conference on Database Systems for Advanced Applications (**DASFAA 2023**), 2023, Accepted. [[Link]](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_3) [[Code]](https://github.com/xizhu1022/FSLP-EBSNs) [[Competition]](https://tianchi.aliyun.com/competition/entrance/532073/information)
-
-- **Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs.** <br>**Xi Zhu**, Fake Lin, Ziwei Zhao, Tong Xu, Xiangyu Zhao, Zikai Yin, Xueying Li, Enhong Chen. <br>In Submission to ACM Transactions on Information Systems (**ACM TOIS**).[[Code]](https://github.com/xizhu1022/DA-GCN)
-
-- **Time-interval Aware Share Recommendation via Bi-directional Continuous Time Dynamic Graphs.** <br>Ziwei Zhao, **Xi Zhu**, Tong Xu, Aakas Lizhiyu, Yu Yu, Xueying Li, Zikai Yin, Enhong Chen. <br>In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**), 2023, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3539618.3591775) [[Code]](https://github.com/meteor-gif/DynShare) 
-
-- **Semantic Interaction Matching Network for Few-shot Knowledge Graph Completion.** <br>Pengfei Luo, **Xi Zhu**, Tong Xu, Yi Zheng, Enhong Chen. <br>In ACM Transactions on the Web (**ACM TWEB**), 2022, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3589557) [[Code]](https://github.com/pengfei-luo/SIM)
+- **Adversarial Attack and Defense on Discrete Time Dynamic Graphs.** <br>Ziwei Zhao, Yu Yang, Zikai Yin, Tong Xu, **Xi Zhu**, Fake Lin, Xueying Li, Enhong Chen. <br>In IEEE Transactions on Knowledge and Data Engineering(**IEEE TKDE**), 2024, Accepted.
 
 - **When Box Meets Graph Convolutional Network in Tag-aware Recommendation.**<br> Fake Lin, Ziwei Zhao, **Xi Zhu**, Da Zhang, Shitian Shen, Xueying Li, Tong Xu, Suojuan Zhang, Enhong Chen.<br> In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**),2024, Accepted. [[Link]](https://arxiv.org/abs/2406.12020) [[Code]](https://github.com/critical88/BoxGNN) 
 
-- **H3GNN: Hybrid Hierarchical HyperGraph Neural Network for Personalized Session-based Recommendation.** <br>Zhizhuo Yin, Kai Han, Pengzi Wang, **Xi Zhu**. <br>In ACM Transactions on Information Systems (**ACM TOIS**), 2023, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3630002)
+- **Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs.** <br>**Xi Zhu**, Fake Lin, Ziwei Zhao, Tong Xu, Xiangyu Zhao, Zikai Yin, Xueying Li, Enhong Chen. <br>In Submission to ACM Transactions on Information Systems (**ACM TOIS**).[[Code]](https://github.com/xizhu1022/DA-GCN)
 
 - **Knowledge Graph Pruning for Recommendation.** <br>Fake Lin, **Xi Zhu**, Ziwei Zhao, Deqiang Huang, Yu Yu, Xueying Li, Tong Xu, Enhong Chen. <br>In Submission to ACM Transactions on Information Systems (**ACM TOIS**). [[Link]](https://arxiv.org/abs/2405.11531)
 
 - **DynLLM: When Large Language Models meet Dynamic Graph Recommendation.** <br>Ziwei Zhao, Fake Lin, **Xi Zhu**, Zhi Zheng, Tong Xu, Shitian Shen, Xueying Li, Zikai Yin, Enhong Chen. <br>In Submission.[[Link]](https://arxiv.org/abs/2405.07580)
 
-- **Adversarial Attack and Defense on Discrete Time Dynamic Graphs.** <br>Ziwei Zhao, Yu Yang, Zikai Yin, Tong Xu, **Xi Zhu**, Fake Lin, Xueying Li, Enhong Chen. <br>In Submission to IEEE Transactions on Knowledge and Data Engineering(**IEEE TKDE**).
+- **Time-interval Aware Share Recommendation via Bi-directional Continuous Time Dynamic Graphs.** <br>Ziwei Zhao, **Xi Zhu**, Tong Xu, Aakas Lizhiyu, Yu Yu, Xueying Li, Zikai Yin, Enhong Chen. <br>In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**), 2023, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3539618.3591775) [[Code]](https://github.com/meteor-gif/DynShare) 
+
+- **H3GNN: Hybrid Hierarchical HyperGraph Neural Network for Personalized Session-based Recommendation.** <br>Zhizhuo Yin, Kai Han, Pengzi Wang, **Xi Zhu**. <br>In ACM Transactions on Information Systems (**ACM TOIS**), 2023, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3630002)
+
+- **Few-shot Link Prediction for Event-based Social Networks via Meta-learning.** <br> **Xi Zhu**, Pengfei Luo, Ziwei Zhao, Tong Xu, Aakas Lizhiyu, Yu Yu, Xueying Li, Enhong Chen. <br>In Proceedings of the 28th International Conference on Database Systems for Advanced Applications (**DASFAA 2023**), 2023, Accepted. [[Link]](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_3) [[Code]](https://github.com/xizhu1022/FSLP-EBSNs) [[Competition]](https://tianchi.aliyun.com/competition/entrance/532073/information)
+
+- **Semantic Interaction Matching Network for Few-shot Knowledge Graph Completion.** <br>Pengfei Luo, **Xi Zhu**, Tong Xu, Yi Zheng, Enhong Chen. <br>In ACM Transactions on the Web (**ACM TWEB**), 2022, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3589557) [[Code]](https://github.com/pengfei-luo/SIM)
 
 - **MENDNet: Memory-Enhanced Dependency Network for Multi-Stock Movement Prediction.** <br>Che Liu, Pengfei Luo, **Xi Zhu**, Tong Xu, Enhong Chen<br>In Submission to ACM Transactions on Knowledge Discovery from Data (**ACM TKDD**).
 
