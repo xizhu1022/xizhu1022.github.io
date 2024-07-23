@@ -25,7 +25,7 @@ I received my M.E. degree in Data Science under the supervision of Prof. <a href
 -->
 My research interests lie in machine learning and data mining, with an emphasis on graph neural networks, recommendation systems, and large language models (LLMs). Currently, I am especially interested in **LLM for graphs, LLM-based agents, and LLM-enhanced recommendation**.
 
-<p style="color: red;">I am open to any interesting discussions, feel free to drop me a message if you are interested. Please check out my CV <a href='https://drive.google.com/file/d/1nqvRzEVvnH8xFXgpun0VOcLB9LkFPUW6/view?usp=drive_link'>here</a>.</p>
+<p style="color: red;">I am open to any interesting discussions, feel free to drop me a message if needed. Please check out my CV <a href='https://drive.google.com/file/d/1nqvRzEVvnH8xFXgpun0VOcLB9LkFPUW6/view?usp=drive_link'>here</a>.</p>
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
@@ -58,31 +58,32 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 -->
 
+
 ## 2024
 
-- **Adversarial Attack and Defense on Discrete Time Dynamic Graphs.** <br>Ziwei Zhao, Yu Yang, Zikai Yin, Tong Xu, **Xi Zhu**, Fake Lin, Xueying Li, Enhong Chen. <br>In IEEE Transactions on Knowledge and Data Engineering(**IEEE TKDE**), 2024, Accepted.
+- **Adversarial Attack and Defense on Discrete Time Dynamic Graphs.** <br>Ziwei Zhao, Yu Yang, Zikai Yin, Tong Xu, <strong><u>Xi Zhu</u></strong>, Fake Lin, Xueying Li, Enhong Chen. <br>In IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2024, Accepted.
 
-- **When Box Meets Graph Convolutional Network in Tag-aware Recommendation.**<br> Fake Lin, Ziwei Zhao, **Xi Zhu**, Da Zhang, Shitian Shen, Xueying Li, Tong Xu, Suojuan Zhang, Enhong Chen.<br> In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**),2024, Accepted. [[Link]](https://arxiv.org/abs/2406.12020) [[Code]](https://github.com/critical88/BoxGNN) 
+- **When Box Meets Graph Convolutional Network in Tag-aware Recommendation.**<br> Fake Lin, Ziwei Zhao, <strong><u>Xi Zhu</u></strong>, Da Zhang, Shitian Shen, Xueying Li, Tong Xu, Suojuan Zhang, Enhong Chen.<br> In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**),2024, Accepted. [[Link]](https://arxiv.org/abs/2406.12020) [[Code]](https://github.com/critical88/BoxGNN) 
 
-- **Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs.** <br>**Xi Zhu**, Fake Lin, Ziwei Zhao, Tong Xu, Xiangyu Zhao, Zikai Yin, Xueying Li, Enhong Chen. <br>In Submission to ACM Transactions on Information Systems (**ACM TOIS**).[[Code]](https://github.com/xizhu1022/DA-GCN)
+- **Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs.** <br><strong><u>Xi Zhu</u></strong>, Fake Lin, Ziwei Zhao, Tong Xu, Xiangyu Zhao, Zikai Yin, Xueying Li, Enhong Chen. <br>In Submission to ACM Transactions on Information Systems (**ACM TOIS**).[[Code]](https://github.com/xizhu1022/DA-GCN)
 
-- **Knowledge Graph Pruning for Recommendation.** <br>Fake Lin, **Xi Zhu**, Ziwei Zhao, Deqiang Huang, Yu Yu, Xueying Li, Tong Xu, Enhong Chen. <br>arXiv:2405.11531. [[Link]](https://arxiv.org/abs/2405.11531)
+- **Knowledge Graph Pruning for Recommendation.** <br>Fake Lin, <strong><u>Xi Zhu</u></strong>, Ziwei Zhao, Deqiang Huang, Yu Yu, Xueying Li, Tong Xu, Enhong Chen. <br>arXiv:2405.11531. [[Link]](https://arxiv.org/abs/2405.11531)
 
-- **DynLLM: When Large Language Models meet Dynamic Graph Recommendation.** <br>Ziwei Zhao, Fake Lin, **Xi Zhu**, Zhi Zheng, Tong Xu, Shitian Shen, Xueying Li, Zikai Yin, Enhong Chen. <br>arXiv:2405.07580 .[[Link]](https://arxiv.org/abs/2405.07580)
+- **DynLLM: When Large Language Models meet Dynamic Graph Recommendation.** <br>Ziwei Zhao, Fake Lin, <strong><u>Xi Zhu</u></strong>, Zhi Zheng, Tong Xu, Shitian Shen, Xueying Li, Zikai Yin, Enhong Chen. <br>arXiv:2405.07580.[[Link]](https://arxiv.org/abs/2405.07580)
 
-- **MENDNet: Memory-Enhanced Dependency Network for Multi-Stock Movement Prediction.** <br>Che Liu, Pengfei Luo, **Xi Zhu**, Tong Xu, Enhong Chen<br>In Submission to ACM Transactions on Knowledge Discovery from Data (**ACM TKDD**).
+- **MENDNet: Memory-Enhanced Dependency Network for Multi-Stock Movement Prediction.** <br>Che Liu, Pengfei Luo, <strong><u>Xi Zhu</u></strong>, Tong Xu, Enhong Chen<br>In Submission to ACM Transactions on Knowledge Discovery from Data (**ACM TKDD**).
 
 ## 2023
 
-- **Time-interval Aware Share Recommendation via Bi-directional Continuous Time Dynamic Graphs.** <br>Ziwei Zhao, **Xi Zhu**, Tong Xu, Aakas Lizhiyu, Yu Yu, Xueying Li, Zikai Yin, Enhong Chen. <br>In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**), 2023, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3539618.3591775) [[Code]](https://github.com/meteor-gif/DynShare) 
+- **Few-shot Link Prediction for Event-based Social Networks via Meta-learning.** <br> <strong><u>Xi Zhu</u></strong>, Pengfei Luo, Ziwei Zhao, Tong Xu, Aakas Lizhiyu, Yu Yu, Xueying Li, Enhong Chen. <br>In Proceedings of the 28th International Conference on Database Systems for Advanced Applications (**DASFAA 2023**), 2023, Accepted. [[Link]](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_3) [[Code]](https://github.com/xizhu1022/FSLP-EBSNs) [[Competition]](https://tianchi.aliyun.com/competition/entrance/532073/information)
 
-- **H3GNN: Hybrid Hierarchical HyperGraph Neural Network for Personalized Session-based Recommendation.** <br>Zhizhuo Yin, Kai Han, Pengzi Wang, **Xi Zhu**. <br>In ACM Transactions on Information Systems (**ACM TOIS**), 2023, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3630002)
+- **Time-interval Aware Share Recommendation via Bi-directional Continuous Time Dynamic Graphs.** <br>Ziwei Zhao, <strong><u>Xi Zhu</u></strong>, Tong Xu, Aakas Lizhiyu, Yu Yu, Xueying Li, Zikai Yin, Enhong Chen. <br>In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**), 2023, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3539618.3591775) [[Code]](https://github.com/meteor-gif/DynShare) 
 
-- **Few-shot Link Prediction for Event-based Social Networks via Meta-learning.** <br> **Xi Zhu**, Pengfei Luo, Ziwei Zhao, Tong Xu, Aakas Lizhiyu, Yu Yu, Xueying Li, Enhong Chen. <br>In Proceedings of the 28th International Conference on Database Systems for Advanced Applications (**DASFAA 2023**), 2023, Accepted. [[Link]](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_3) [[Code]](https://github.com/xizhu1022/FSLP-EBSNs) [[Competition]](https://tianchi.aliyun.com/competition/entrance/532073/information)
+- **H3GNN: Hybrid Hierarchical HyperGraph Neural Network for Personalized Session-based Recommendation.** <br>Zhizhuo Yin, Kai Han, Pengzi Wang, <strong><u>Xi Zhu</u></strong>. <br>In ACM Transactions on Information Systems (**ACM TOIS**), 2023, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3630002)
 
 ## 2022
 
-- **Semantic Interaction Matching Network for Few-shot Knowledge Graph Completion.** <br>Pengfei Luo, **Xi Zhu**, Tong Xu, Yi Zheng, Enhong Chen. <br>In ACM Transactions on the Web (**ACM TWEB**), 2022, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3589557) [[Code]](https://github.com/pengfei-luo/SIM)
+- **Semantic Interaction Matching Network for Few-shot Knowledge Graph Completion.** <br>Pengfei Luo, <strong><u>Xi Zhu</u></strong>, Tong Xu, Yi Zheng, Enhong Chen. <br>In ACM Transactions on the Web (**ACM TWEB**), 2022, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3589557) [[Code]](https://github.com/pengfei-luo/SIM)
 
 
 
@@ -110,13 +111,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Patents 
 
-- **Method, System, Device and Storage Medium of Few-shot Knowledge Graph Completion.** <br> Tong Xu, Enhong Chen, Pengfei Luo, **Xi Zhu**. <br> CN202210492838, China, Granted.
+- **Method, System, Device and Storage Medium of Few-shot Knowledge Graph Completion.** <br> Tong Xu, Enhong Chen, Pengfei Luo, <strong><u>Xi Zhu</u></strong>. <br> CN202210492838, China, Granted.
 
-- **Model Training Method, Object Recommendation Algorithm and Related Devices for Realizing Object Recommendation.** <br>Zhizhuo Yin, **Xi Zhu**, Ziwei Zhao, Pengzi Wang, Yu Yu, Xueying Li. <br> CN202310173248, China, Published.
+- **Model Training Method, Object Recommendation Algorithm and Related Devices for Realizing Object Recommendation.** <br>Zhizhuo Yin, <strong><u>Xi Zhu</u></strong>, Ziwei Zhao, Pengzi Wang, Yu Yu, Xueying Li. <br> CN202310173248, China, Published.
 
-- **Methods, Devices, Equipment and Storage Media for Information Sharing Processing.** <br>Ziwei Zhao, Yu Yu, Xueying Li, **Xi Zhu**. <br> CN202211328249, China, Published.
+- **Methods, Devices, Equipment and Storage Media for Information Sharing Processing.** <br>Ziwei Zhao, Yu Yu, Xueying Li, <strong><u>Xi Zhu</u></strong>. <br> CN202211328249, China, Published.
 
-- **Method, System, Device and Storage Medium of Knowledge Graph Pruning for Recommendation.** <br>Fake Lin, **Xi Zhu**, Ziwei Zhao, Shitian Shen, Xueying Li. <br> CN202310173248, China, Published.
+- **Method, System, Device and Storage Medium of Knowledge Graph Pruning for Recommendation.** <br>Fake Lin, <strong><u>Xi Zhu</u></strong>, Ziwei Zhao, Shitian Shen, Xueying Li. <br> CN202310173248, China, Published.
 
-- **Method and System of Multi-behavior Recommendation Based on Directed Acyclic Behavior Graphs.** <br>**Xi Zhu**, Fake Lin, Ziwei Zhao, Shitian Shen, Xueying Li, Zhizhuo Yin, Pengzi Wang. <br> CN202311146600, China, Published.
+- **Method and System of Multi-behavior Recommendation Based on Directed Acyclic Behavior Graphs.** <br><strong><u>Xi Zhu</u></strong>, Fake Lin, Ziwei Zhao, Shitian Shen, Xueying Li, Zhizhuo Yin, Pengzi Wang. <br> CN202311146600, China, Published.
 
