@@ -102,13 +102,15 @@ My research interest includes neural machine translation and computer vision. I 
 # Teaching Experiences
 - **Teaching Assistant**, School of Computer Science and Technology, USTC, *Fall, 2021*<br>Course: Web Information Processing and Application (011179.01)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instructor: Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a>
 
+- **Teaching Assistant**, Department of Computer Science, Rutgers University, *Fall, 2024*<br>Course: Introduction to Data Science (CS439)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instructor: Prof. <a href='http://yongfeng.me'>Yongfeng Zhang</a>
+
 
 <!--
 # Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
-
+<!--
 # Patents 
 
 - **Method, System, Device and Storage Medium of Few-shot Knowledge Graph Completion.** <br> Tong Xu, Enhong Chen, Pengfei Luo, <strong><u>Xi Zhu</u></strong>. <br> CN202210492838, China, Granted.
@@ -121,3 +123,4 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **Method and System of Multi-behavior Recommendation Based on Directed Acyclic Behavior Graphs.** <br><strong><u>Xi Zhu</u></strong>, Fake Lin, Ziwei Zhao, Shitian Shen, Xueying Li, Zhizhuo Yin, Pengzi Wang. <br> CN202311146600, China, Published.
 
+-->
