@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xi Zhu"
-description              : "Incoming CS PhD Student at Rutgers"
+description              : "PhD Student at Rutgers"
 repository               : "xizhu1022/xizhu1022.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xi Zhu"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/my_photo-512x512.png"
   bio              : 
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "xizhu@mail.ustc.edu.cn"
+  googlescholar    :  https://scholar.google.com/citations?user=_Ev2VPoAAAAJ&hl=en
+  email            : "xi.zhu@rutgers.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -44,14 +44,14 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : xi-zhu-jerry
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : https://dblp.org/pid/15/6877-4.html
   orcid            : https://orcid.org/0000-0003-3621-8493
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : https://x.com/xizhu1022
   vine             :
   weibo            :
   xing             :
