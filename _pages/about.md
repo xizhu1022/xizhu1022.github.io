@@ -33,9 +33,9 @@ My research interest includes neural machine translation and computer vision. I 
 # Education
 - **Ph.D. Student**, 2024 - present, <a href='http://www.rutgers.edu/'>Rutgers University</a>, New Brunswick, NJ, USA. <br>**Major:** Computer Science   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br>**Advisor**: Prof. <a href='http://www.yongfeng.me'>Yongfeng Zhang</a>
 
-- **M.E. Student**, 2020 - 2023, <a href='http://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a>, Hefei, China. <br>**Major:** Computer Science (Data Science)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br>**Advisors**: Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen (IEEE Fellow)</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a><br>**Affiliation**: <a href='https://bigdata.ustc.edu.cn/'>Anhui Province Key Laboratory of Big Data Analysis and Application (BDAA)</a>, <a href='http://cogskl.iflytek.com/'>State Key Laboratory of Cognitive Intelligence</a>
+- **M.E. Student**, 2020 - 2023, <a href='http://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a>, Hefei, China. <br>**Major:** Computer Science (Data Science)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **GPA:** 3.92/4.30<br>**Advisors**: Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen (IEEE Fellow)</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a><br>**Affiliation**: <a href='https://bigdata.ustc.edu.cn/'>Anhui Province Key Laboratory of Big Data Analysis and Application (BDAA)</a>, <a href='http://cogskl.iflytek.com/'>State Key Laboratory of Cognitive Intelligence</a>
 
-- **B.E. Student**, 2016 - 2020, <a href='https://en.scu.edu.cn/'>Sichuan University (SCU)</a>, Chengdu, China. <br>**Major:** Computer Science   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+- **B.E. Student**, 2016 - 2020, <a href='https://en.scu.edu.cn/'>Sichuan University (SCU)</a>, Chengdu, China. <br>**Major:** Computer Science   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **GPA:** 3.76/4.00
 
 <!--
 # 🔥 News
@@ -66,7 +66,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 ## 2024
-- **Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs.** <br><strong><u>Xi Zhu</u></strong>, Fake Lin, Ziwei Zhao, Tong Xu, Xiangyu Zhao, Zikai Yin, Xueying Li, Enhong Chen. <br>In Submission to ACM Transactions on Information Systems (**ACM TOIS**).[[Code]](https://github.com/xizhu1022/DA-GCN)
+- **Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs.** <br><strong><u>Xi Zhu</u></strong>, Fake Lin, Ziwei Zhao, Tong Xu, Xiangyu Zhao, Zikai Yin, Xueying Li, Enhong Chen. <br>In ACM Transactions on Information Systems (**ACM TOIS**), 2024, Accepted.[[Code]](https://github.com/xizhu1022/DA-GCN)
 
 - **Adversarial Attack and Defense on Discrete Time Dynamic Graphs.** <br>Ziwei Zhao, Yu Yang, Zikai Yin, Tong Xu, <strong><u>Xi Zhu</u></strong>, Fake Lin, Xueying Li, Enhong Chen. <br>In IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2024, Accepted.  [[Link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10623545) 
 
@@ -101,9 +101,9 @@ My research interest includes neural machine translation and computer vision. I 
 - **Research Intern**, Alibaba Group, Hangzhou, China, *Dec 2021 - Nov 2023* <br>Funded by <a href='https://damo.alibaba.com/air/'>Alibaba Innovative Research (AIR) Program</a>.<br>Projects: Graph-based Recommendation Systems
 
 # Teaching Experiences
-- **Teaching Assistant**, School of Computer Science and Technology, USTC, *Fall, 2021*<br>Course: Web Information Processing and Application (011179.01)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instructor: Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a>
+- **Teaching Assistant**, CS439: Introduction to Data Science, Rutgers University, *2024 Fall*
 
-- **Teaching Assistant**, Department of Computer Science, Rutgers University, *Fall, 2024*<br>Course: Introduction to Data Science (CS439)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Instructor: Prof. <a href='http://yongfeng.me'>Yongfeng Zhang</a>
+- **Teaching Assistant**, 11179.01: Web Information Processing and Application, University of Science and Technology of China, *2021 Fall*
 
 
 <!--
