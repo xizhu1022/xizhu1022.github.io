@@ -23,9 +23,12 @@ I am Xi Zhu, a first-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Comp
 <!--
 I received my M.E. degree in Data Science under the supervision of Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a> from <a href='http://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a>, where I was a member of <a href='https://bigdata.ustc.edu.cn/'>Anhui Province Key Laboratory of Big Data Analysis and Application (BDAA)</a>, a part of <a href='http://cogskl.iflytek.com/'>State Key Laboratory of Cognitive Intelligence</a>. Prior to that, I obtained my B.E. degree in Computer Science from <a href='https://en.scu.edu.cn/'>Sichuan University (SCU)</a>. 
 -->
-My research interests lie in machine learning and data mining, with an emphasis on graph neural networks, recommendation systems, and large language models (LLMs). Currently, I am especially interested in **LLM for graphs, LLM-based agents, and LLM-enhanced recommendation**.
+My research interests include: 
+- Graph Machine Learning: Graph Neural Networks, Graph Foundation Model
+- Large Language Models: LLM-based Agents, LLM-based Recommendation
+- Data Mining Applications: Recommendation Systems, Information Retrieval, Social Network Analysis
 
-<p style="color: red;">I am open to any interesting discussions, feel free to drop me a message. Please check out my CV <a href='https://drive.google.com/file/d/1nqvRzEVvnH8xFXgpun0VOcLB9LkFPUW6/view?usp=drive_link'>here</a>(updated on June 2024).</p>
+<p style="color: red;">I am open to any interesting discussions, so feel free to reach out. You can view my CV <a href='https://drive.google.com/file/d/1_sUCoyiULqHJVRXjy1lu3WS6FYzS4g7t/view?usp=drive_link'>here</a> (updated on Oct 2024).</p>
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
@@ -60,13 +63,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 ## 2024
-- **Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs.** <br><strong><u>Xi Zhu</u></strong>, Fake Lin, Ziwei Zhao, Tong Xu, Xiangyu Zhao, Zikai Yin, Xueying Li, Enhong Chen. <br>In ACM Transactions on Information Systems (**ACM TOIS**), 2024, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3696417) 
+- **Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs.** <br><strong><u>Xi Zhu</u></strong>, Fake Lin, Ziwei Zhao, Tong Xu, Xiangyu Zhao, Zikai Yin, Xueying Li, Enhong Chen. <br>In ACM Transactions on Information Systems (**ACM TOIS**), 2024, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3696417) [[Code]](https://github.com/xizhu1022/DA-GCN) 
 
 - **Adversarial Attack and Defense on Discrete Time Dynamic Graphs.** <br>Ziwei Zhao, Yu Yang, Zikai Yin, Tong Xu, <strong><u>Xi Zhu</u></strong>, Fake Lin, Xueying Li, Enhong Chen. <br>In IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2024, Accepted.  [[Link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10623545) 
 
 - **When Box Meets Graph Convolutional Network in Tag-aware Recommendation.**<br> Fake Lin, Ziwei Zhao, <strong><u>Xi Zhu</u></strong>, Da Zhang, Shitian Shen, Xueying Li, Tong Xu, Suojuan Zhang, Enhong Chen.<br> In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**),2024, Accepted. [[Link]](https://arxiv.org/abs/2406.12020) [[Code]](https://github.com/critical88/BoxGNN) 
 
-- **MENDNet: Memory-Enhanced Dependency Network for Multi-Stock Movement Prediction.** <br>Che Liu, Pengfei Luo, <strong><u>Xi Zhu</u></strong>, Tong Xu, Enhong Chen<br>In Submission to ACM Transactions on Knowledge Discovery from Data (**ACM TKDD**).
+- **MENDNet: Memory-Enhanced Dependency Network for Multi-Stock Movement Prediction.** <br>Che Liu, Pengfei Luo, <strong><u>Xi Zhu</u></strong>, Tong Xu, Enhong Chen<br>In Submission to IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**).
 
 ## 2023
 
