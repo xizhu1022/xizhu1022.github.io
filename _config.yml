@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xi Zhu"
-description              : "PhD Student at Rutgers"
+description              : "PhD Student in CS@Rutgers"
 repository               : "xizhu1022/xizhu1022.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Xi Zhu"
   avatar           : "images/my_photo-512x512.png"
   bio              : 
-  location         : 
+  location         : Piscataway, NJ, 08854
   employer         :
   pubmed           : 
   googlescholar    :  https://scholar.google.com/citations?user=_Ev2VPoAAAAJ&hl=en
