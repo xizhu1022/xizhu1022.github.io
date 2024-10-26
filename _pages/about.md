@@ -57,6 +57,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 ## Preprint
 
+- **LLM as GNN: Graph Vocabulary Learning for Graph Foundation Model.** <br><strong><u>Xi Zhu</u></strong>, Haochen Xue, Ziwei Zhao, Mingyu Jin, Wujiang Xu, Jingyuan Huang, Qifan Wang, Kaixiong Zhou, Yongfeng Zhang.
+<!--
+- **iAgent: LLM Agent as a Shield between User and Recommender Systems.** <br>Wujiang Xu, Yunxiao Shi, Xuying Ning, Kai Mei, Kun Wang, <strong><u>Xi Zhu</u></strong>, Wenyue Hua, Min Xu, Mingyu Jin, Yongfeng Zhang.
+-->
+
 - **Knowledge Graph Pruning for Recommendation.** <br>Fake Lin, <strong><u>Xi Zhu</u></strong>, Ziwei Zhao, Deqiang Huang, Yu Yu, Xueying Li, Tong Xu, Enhong Chen. <br>arXiv:2405.11531. [[Link]](https://arxiv.org/abs/2405.11531)
 
 - **DynLLM: When Large Language Models meet Dynamic Graph Recommendation.** <br>Ziwei Zhao, Fake Lin, <strong><u>Xi Zhu</u></strong>, Zhi Zheng, Tong Xu, Shitian Shen, Xueying Li, Zikai Yin, Enhong Chen. <br>arXiv:2405.07580.[[Link]](https://arxiv.org/abs/2405.07580)
