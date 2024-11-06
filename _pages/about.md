@@ -59,6 +59,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **LLM as GNN: Graph Vocabulary Learning for Graph Foundation Model.** <br><strong><u>Xi Zhu</u></strong>, Haochen Xue, Ziwei Zhao, Mingyu Jin, Wujiang Xu, Jingyuan Huang, Qifan Wang, Kaixiong Zhou, Yongfeng Zhang.
 
+- **Recommender Systems in the Era of Large Language Model Agents: A Survey.** <br><strong><u>Xi Zhu</u></strong>, Yu Wang, Hang Gao, Wujiang Xu, Chen Wang, Zhiwei Liu, Kun Wang, Mingyu Jin, Linsey Pang, Qingsong Wen, Philips S. Yu, Yongfeng Zhang.
+
 <!--
 - **iAgent: LLM Agent as a Shield between User and Recommender Systems.** <br>Wujiang Xu, Yunxiao Shi, Xuying Ning, Kai Mei, Kun Wang, <strong><u>Xi Zhu</u></strong>, Wenyue Hua, Min Xu, Mingyu Jin, Yongfeng Zhang.
 -->
@@ -76,6 +78,8 @@ My research interest includes neural machine translation and computer vision. I 
 - **When Box Meets Graph Convolutional Network in Tag-aware Recommendation.**<br> Fake Lin, Ziwei Zhao, <strong><u>Xi Zhu</u></strong>, Da Zhang, Shitian Shen, Xueying Li, Tong Xu, Suojuan Zhang, Enhong Chen.<br> In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**),2024, Accepted. [[Link]](https://arxiv.org/abs/2406.12020) [[Code]](https://github.com/critical88/BoxGNN) 
 
 - **MENDNet: Memory-Enhanced Dependency Network for Multi-Stock Movement Prediction.** <br>Che Liu, Pengfei Luo, <strong><u>Xi Zhu</u></strong>, Tong Xu, Enhong Chen<br>In Submission to IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**).
+
+- **Exploring Political Decision Making for Roll Call Vote Prediction: An Attention-Enhanced Approach.** <br>Zikai Yin, <strong><u>Xi Zhu</u></strong>, Jiayue Chen, Che Liu, Ziwei Zhao, Zhi Zheng, Tong Xu, Enhong Chen<br>In Submission to IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**).
 
 ## 2023
 
