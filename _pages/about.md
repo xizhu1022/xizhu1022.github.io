@@ -59,7 +59,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **LLM as GNN: Graph Vocabulary Learning for Graph Foundation Model.** <br><strong><u>Xi Zhu</u></strong>, Haochen Xue, Ziwei Zhao, Mingyu Jin, Wujiang Xu, Jingyuan Huang, Qifan Wang, Kaixiong Zhou, Yongfeng Zhang.
 
-- **Recommender Systems in the Era of Large Language Model Agents: A Survey.** <br><strong><u>Xi Zhu\*</u></strong>, Yu Wang\*, Hang Gao\*, Wujiang Xu\*, Chen Wang, Zhiwei Liu, Kun Wang, Mingyu Jin, Linsey Pang, Qingsong Wen, Philips S. Yu, Yongfeng Zhang.
+- **Recommender Systems in the Era of Large Language Model Agents: A Survey.** <br><strong><u>Xi Zhu</u></strong>\*, Yu Wang\*, Hang Gao\*, Wujiang Xu\*, Chen Wang, Zhiwei Liu, Kun Wang, Mingyu Jin, Linsey Pang, Qingsong Wen, Philips S. Yu, Yongfeng Zhang.
 
 <!--
 - **iAgent: LLM Agent as a Shield between User and Recommender Systems.** <br>Wujiang Xu, Yunxiao Shi, Xuying Ning, Kai Mei, Kun Wang, <strong><u>Xi Zhu</u></strong>, Wenyue Hua, Min Xu, Mingyu Jin, Yongfeng Zhang.
