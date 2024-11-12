@@ -61,7 +61,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **Recommender Systems in the Era of Large Language Model Agents: A Survey.** <br><strong><u>Xi Zhu</u></strong>\*, Yu Wang\*, Hang Gao\*, Wujiang Xu\*, Chen Wang, Zhiwei Liu, Kun Wang, Mingyu Jin, Linsey Pang, Qingsong Wen, Philips S. Yu, Yongfeng Zhang.
 
-- **AIOS: LLM Agent Operating System.** Kai Mei, <br><strong><u>Xi Zhu</u></strong>, Wujiang Xu, Wenyue Hua, Mingyu Jin, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang. <br>arXiv:2403.16971. [[Link]](https://arxiv.org/abs/2403.16971)
+- **AIOS: LLM Agent Operating System.** <br>Kai Mei, <strong><u>Xi Zhu</u></strong>, Wujiang Xu, Wenyue Hua, Mingyu Jin, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang. <br>arXiv:2403.16971. [[Link]](https://arxiv.org/abs/2403.16971)
 
 <!--
 - **iAgent: LLM Agent as a Shield between User and Recommender Systems.** <br>Wujiang Xu, Yunxiao Shi, Xuying Ning, Kai Mei, Kun Wang, <strong><u>Xi Zhu</u></strong>, Wenyue Hua, Min Xu, Mingyu Jin, Yongfeng Zhang.
@@ -69,7 +69,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **Knowledge Graph Pruning for Recommendation.** <br>Fake Lin, <strong><u>Xi Zhu</u></strong>, Ziwei Zhao, Deqiang Huang, Yu Yu, Xueying Li, Tong Xu, Enhong Chen. <br>arXiv:2405.11531. [[Link]](https://arxiv.org/abs/2405.11531)
 
-- **DynLLM: When Large Language Models meet Dynamic Graph Recommendation.** <br>Ziwei Zhao, Fake Lin, <strong><u>Xi Zhu</u></strong>, Zhi Zheng, Tong Xu, Shitian Shen, Xueying Li, Zikai Yin, Enhong Chen. <br>arXiv:2405.07580.[[Link]](https://arxiv.org/abs/2405.07580)
+- **DynLLM: When Large Language Models meet Dynamic Graph Recommendation.** <br>Ziwei Zhao, Fake Lin, <strong><u>Xi Zhu</u></strong>, Zhi Zheng, Tong Xu, Shitian Shen, Xueying Li, Zikai Yin, Enhong Chen. <br>arXiv:2405.07580. [[Link]](https://arxiv.org/abs/2405.07580)
 
 
 ## 2024
