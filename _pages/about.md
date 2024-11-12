@@ -61,6 +61,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **Recommender Systems in the Era of Large Language Model Agents: A Survey.** <br><strong><u>Xi Zhu</u></strong>\*, Yu Wang\*, Hang Gao\*, Wujiang Xu\*, Chen Wang, Zhiwei Liu, Kun Wang, Mingyu Jin, Linsey Pang, Qingsong Wen, Philips S. Yu, Yongfeng Zhang.
 
+- **AIOS: LLM Agent Operating System.** Kai Mei, <br><strong><u>Xi Zhu</u></strong>, Wujiang Xu, Wenyue Hua, Mingyu Jin, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang. <br>arXiv:2403.16971. [[Link]](https://arxiv.org/abs/2403.16971)
+
 <!--
 - **iAgent: LLM Agent as a Shield between User and Recommender Systems.** <br>Wujiang Xu, Yunxiao Shi, Xuying Ning, Kai Mei, Kun Wang, <strong><u>Xi Zhu</u></strong>, Wenyue Hua, Min Xu, Mingyu Jin, Yongfeng Zhang.
 -->
