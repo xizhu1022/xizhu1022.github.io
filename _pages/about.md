@@ -19,7 +19,7 @@ redirect_from:
 
 # Bio
 
-I am Xi Zhu, a first-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Science</a> at <a href='http://www.rutgers.edu/'>Rutgers University</a>, working with Prof. <a href='http://www.yongfeng.me'>Yongfeng Zhang</a>. 
+I am Xi Zhu, a Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Science</a> at <a href='http://www.rutgers.edu/'>Rutgers University</a>, working with Prof. <a href='http://www.yongfeng.me'>Yongfeng Zhang</a>. 
 <!--
 I received my M.E. degree in Data Science under the supervision of Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a> from <a href='http://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a>, where I was a member of <a href='https://bigdata.ustc.edu.cn/'>Anhui Province Key Laboratory of Big Data Analysis and Application (BDAA)</a>, a part of <a href='http://cogskl.iflytek.com/'>State Key Laboratory of Cognitive Intelligence</a>. Prior to that, I obtained my B.E. degree in Computer Science from <a href='https://en.scu.edu.cn/'>Sichuan University (SCU)</a>. 
 -->
@@ -57,17 +57,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 ## Preprint
 
-- **LLM as GNN: Graph Vocabulary Learning for Graph Foundation Model.** <br><strong><u>Xi Zhu</u></strong>, Haochen Xue, Ziwei Zhao, Mingyu Jin, Wujiang Xu, Jingyuan Huang, Qifan Wang, Kaixiong Zhou, Yongfeng Zhang.
+- **LLM as GNN: Graph Vocabulary Learning for Graph Foundation Model.** <br><strong><u>Xi Zhu</u></strong>\*, Haochen Xue\*, Ziwei Zhao, Wujiang Xu, Jingyuan Huang, Minghao Guo, Qifan Wang, Kaixiong Zhou, Yongfeng Zhang. [[Link]](https://arxiv.org/abs/2503.03313v1)
 
-- **Recommender Systems in the Era of Large Language Model Agents: A Survey.** <br><strong><u>Xi Zhu</u></strong>\*, Yu Wang\*, Hang Gao\*, Wujiang Xu\*, Chen Wang, Zhiwei Liu, Kun Wang, Mingyu Jin, Linsey Pang, Qingsong Wen, Philips S. Yu, Yongfeng Zhang. [[Link]](https://www.researchgate.net/profile/Xi-Zhu-51/publication/386552275_Recommender_Systems_Meet_Large_Language_Model_Agents_A_Survey/links/6755ef89ad10b614ef38fc5e/Recommender-Systems-Meet-Large-Language-Model-Agents-A-Survey.pdf?origin=publicationDetail&_sg%5B0%5D=hKSu0a-DjZOGRzdgkHPedn2-zzoCZ9JhFi_3Lzc4kJKJ8g_ndjDwUvECaXFbDdnBfrrmWVyaStRTmyiH4-loFw.lFs_TPc7ATNoYiRKLkbB-gsJU4ygfPb4RN3MXlD9-9cNHI_2APPR_m2OQMzoeW4mzop_9vZvUW7gnlLaGkiYqA&_sg%5B1%5D=2HPGPpKoBqjlLc1pQK_-tVo8VuPPuH0EIocEAf808jiZ1UIZCH3o6OWFY_03EgF9tlEXPAcnka9-sfIQhS5_oi5ClOk-8p8NYNXkAJzYHesi.lFs_TPc7ATNoYiRKLkbB-gsJU4ygfPb4RN3MXlD9-9cNHI_2APPR_m2OQMzoeW4mzop_9vZvUW7gnlLaGkiYqA&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHVibGljYXRpb24iLCJwb3NpdGlvbiI6InBhZ2VIZWFkZXIifX0)
-
-
+- **Recommender Systems in the Era of Large Language Model Agents: A Survey.** <br><strong><u>Xi Zhu</u></strong>\*, Yu Wang\*, Hang Gao\*, Wujiang Xu\*, Chen Wang, Zhiwei Liu, Kun Wang, Mingyu Jin, Linsey Pang, Qingsong Wen, Philips S. Yu, Yongfeng Zhang. [[Link]](https://papers.ssrn.com/sol3/Delivery.cfm/5062105.pdf?abstractid=5062105&mirid=1)
 
 - **AIOS: LLM Agent Operating System.** <br>Kai Mei, <strong><u>Xi Zhu</u></strong>, Wujiang Xu, Wenyue Hua, Mingyu Jin, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang. <br>arXiv:2403.16971. [[Link]](https://arxiv.org/abs/2403.16971)
 
-<!--
-- **iAgent: LLM Agent as a Shield between User and Recommender Systems.** <br>Wujiang Xu, Yunxiao Shi, Xuying Ning, Kai Mei, Kun Wang, <strong><u>Xi Zhu</u></strong>, Wenyue Hua, Min Xu, Mingyu Jin, Yongfeng Zhang.
--->
+- **InstructAgent: Building User Controllable Recommender via LLM Agent.** <br>Wujiang Xu, Zujie Liang, Xuying Ning, Kai Mei, Kun Wang, <strong><u>Xi Zhu</u></strong>, Min Xu, Yongfeng Zhang. [[Link]](https://arxiv.org/abs/2502.14662)
 
 - **Knowledge Graph Pruning for Recommendation.** <br>Fake Lin, <strong><u>Xi Zhu</u></strong>, Ziwei Zhao, Deqiang Huang, Yu Yu, Xueying Li, Tong Xu, Enhong Chen. <br>arXiv:2405.11531. [[Link]](https://arxiv.org/abs/2405.11531)
 
