@@ -57,7 +57,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 ## Preprint
 
-- **LLM as GNN: Graph Vocabulary Learning for Graph Foundation Model.** <br><strong><u>Xi Zhu</u></strong>\*, Haochen Xue\*, Ziwei Zhao, Wujiang Xu, Jingyuan Huang, Minghao Guo, Qifan Wang, Kaixiong Zhou, Yongfeng Zhang. [[Link]](https://arxiv.org/abs/2503.03313v1)
+- **LLM as GNN: Graph Vocabulary Learning for Text-attributed Graph Foundation Model.** <br><strong><u>Xi Zhu</u></strong>\*, Haochen Xue\*, Ziwei Zhao, Wujiang Xu, Jingyuan Huang, Minghao Guo, Qifan Wang, Kaixiong Zhou, Yongfeng Zhang. [[Link]](https://arxiv.org/abs/2503.03313v1)
 
 - **Recommender Systems in the Era of Large Language Model Agents: A Survey.** <br><strong><u>Xi Zhu</u></strong>\*, Yu Wang\*, Hang Gao\*, Wujiang Xu\*, Chen Wang, Zhiwei Liu, Kun Wang, Mingyu Jin, Linsey Pang, Qingsong Wen, Philips S. Yu, Yongfeng Zhang. [[Link]](https://papers.ssrn.com/sol3/Delivery.cfm/5062105.pdf?abstractid=5062105&mirid=1)
 
@@ -108,6 +108,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **Teaching Assistant**, 11179.01: Web Information Processing and Application, University of Science and Technology of China, *2021 Fall*
 
+# Academic Service
+- Reviewer: ACM TOIS, IEEE TKDE
+- PC Member: WWW 2025, KDD 2025, RecSys 2024/2025
 
 # Honors and Awards
 - National Scholarship, *Dec 2019*
