@@ -104,6 +104,8 @@ My research interest includes neural machine translation and computer vision. I 
 - **Research Intern**, Alibaba Group, Hangzhou, China, *Dec 2021 - Nov 2023* <br>Funded by <a href='https://damo.alibaba.com/air/'>Alibaba Innovative Research (AIR) Program</a>.<br>Projects: Graph-based Recommendation Systems
 
 # Teaching Experiences
+- **Teaching Assistant**, CS527: Database System for Data Science, Rutgers University, *2025 Spring*
+
 - **Teaching Assistant**, CS439: Introduction to Data Science, Rutgers University, *2024 Fall*
 
 - **Teaching Assistant**, 11179.01: Web Information Processing and Application, University of Science and Technology of China, *2021 Fall*
