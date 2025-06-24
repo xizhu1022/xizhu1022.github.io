@@ -23,10 +23,7 @@ I am Xi Zhu, a first-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Comp
 <!--
 I received my M.E. degree in Data Science under the supervision of Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a> from <a href='http://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a>, where I was a member of <a href='https://bigdata.ustc.edu.cn/'>Anhui Province Key Laboratory of Big Data Analysis and Application (BDAA)</a>, a part of <a href='http://cogskl.iflytek.com/'>State Key Laboratory of Cognitive Intelligence</a>. Prior to that, I obtained my B.E. degree in Computer Science from <a href='https://en.scu.edu.cn/'>Sichuan University (SCU)</a>. 
 -->
-My research interests include: 
-- Graph Machine Learning: Graph Neural Networks, Graph Foundation Model
-- Large Language Models: LLM-based Agents, LLM-based Recommendation
-- Data Mining Applications: Recommendation Systems, Information Retrieval, Social Network Analysis
+My research interests include graph machine learning, recommender systems, and large language models and agents.
 
 I will join Amazon as an Applied Scientist Intern in Seattle, WA for Summer 2025.
 
@@ -59,7 +56,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 ## Preprint
 
-- **LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS.** Kai Mei, <br><strong><u>Xi Zhu</u></strong>, Hang Gao, Shuhang Lin, Yongfeng Zhang. [[Link]](https://arxiv.org/abs/2505.18829)
+- **LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS.**  <br>Kai Mei, <strong><u>Xi Zhu</u></strong>, Hang Gao, Shuhang Lin, Yongfeng Zhang. [[Link]](https://arxiv.org/abs/2505.18829)
 
 - **LLM as GNN: Graph Vocabulary Learning for Text-attributed Graph Foundation Model.** <br><strong><u>Xi Zhu</u></strong>\*, Haochen Xue\*, Ziwei Zhao, Wujiang Xu, Jingyuan Huang, Minghao Guo, Qifan Wang, Kaixiong Zhou, Yongfeng Zhang. [[Link]](https://arxiv.org/abs/2503.03313v1)
 
