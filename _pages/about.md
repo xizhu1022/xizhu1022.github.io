@@ -59,13 +59,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 ## Preprint
 
+- **LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS.** Kai Mei, <br><strong><u>Xi Zhu</u></strong>, Hang Gao, Shuhang Lin, Yongfeng Zhang. [[Link]](https://arxiv.org/abs/2505.18829)
+
 - **LLM as GNN: Graph Vocabulary Learning for Text-attributed Graph Foundation Model.** <br><strong><u>Xi Zhu</u></strong>\*, Haochen Xue\*, Ziwei Zhao, Wujiang Xu, Jingyuan Huang, Minghao Guo, Qifan Wang, Kaixiong Zhou, Yongfeng Zhang. [[Link]](https://arxiv.org/abs/2503.03313v1)
 
 - **Recommender Systems in the Era of Large Language Model Agents: A Survey.** <br><strong><u>Xi Zhu</u></strong>\*, Yu Wang\*, Hang Gao\*, Wujiang Xu\*, Chen Wang, Zhiwei Liu, Kun Wang, Mingyu Jin, Linsey Pang, Qingsong Wen, Philips S. Yu, Yongfeng Zhang. [[Link]](https://papers.ssrn.com/sol3/Delivery.cfm/5062105.pdf?abstractid=5062105&mirid=1)
 
 - **AIOS: LLM Agent Operating System.** <br>Kai Mei, <strong><u>Xi Zhu</u></strong>, Wujiang Xu, Wenyue Hua, Mingyu Jin, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang. <br>arXiv:2403.16971. [[Link]](https://arxiv.org/abs/2403.16971)
 
-- **InstructAgent: Building User Controllable Recommender via LLM Agent.** <br>Wujiang Xu, Zujie Liang, Xuying Ning, Kai Mei, Kun Wang, <strong><u>Xi Zhu</u></strong>, Min Xu, Yongfeng Zhang. [[Link]](https://arxiv.org/abs/2502.14662)
+- **iAgent: LLM Agent as a Shield between User and Recommender Systems.** <br>Wujiang Xu, Yunxiao Shi, Zujie Liang, Xuying Ning, Kai Mei, Kun Wang, <strong><u>Xi Zhu</u></strong>, Min Xu, Yongfeng Zhang. [[Link]](https://arxiv.org/abs/2502.14662)
 
 - **Knowledge Graph Pruning for Recommendation.** <br>Fake Lin, <strong><u>Xi Zhu</u></strong>, Ziwei Zhao, Deqiang Huang, Yu Yu, Xueying Li, Tong Xu, Enhong Chen. <br>arXiv:2405.11531. [[Link]](https://arxiv.org/abs/2405.11531)
 
@@ -96,14 +98,17 @@ My research interest includes neural machine translation and computer vision. I 
 - **Semantic Interaction Matching Network for Few-shot Knowledge Graph Completion.** <br>Pengfei Luo, <strong><u>Xi Zhu</u></strong>, Tong Xu, Yi Zheng, Enhong Chen. <br>In ACM Transactions on the Web (**ACM TWEB**), 2022, Accepted. [[Link]](https://dl.acm.org/doi/10.1145/3589557) [[Code]](https://github.com/pengfei-luo/SIM)
 
 # Education
-- **Ph.D. Student**, 2024 - present, <a href='http://www.rutgers.edu/'>Rutgers University</a>, New Brunswick, NJ, USA. <br>**Major:** Computer Science   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br>**Advisor**: Prof. <a href='http://www.yongfeng.me'>Yongfeng Zhang</a>
+- **Ph.D. Student**, 2024 - present, <a href='http://www.rutgers.edu/'>Rutgers University</a>, New Brunswick, NJ. <br>**Major:** Computer Science   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br>**Advisor**: Prof. <a href='http://www.yongfeng.me'>Yongfeng Zhang</a>
 
 - **M.E. Student**, 2020 - 2023, <a href='http://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a>, Hefei, China. <br>**Major:** Computer Science (Data Science)   <br>**Advisors**: Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen (IEEE Fellow)</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a><br>**Affiliation**: <a href='https://bigdata.ustc.edu.cn/'>Anhui Province Key Laboratory of Big Data Analysis and Application (BDAA)</a>, <a href='http://cogskl.iflytek.com/'>State Key Laboratory of Cognitive Intelligence</a>
 
 - **B.E. Student**, 2016 - 2020, <a href='https://en.scu.edu.cn/'>Sichuan University (SCU)</a>, Chengdu, China. <br>**Major:** Computer Science   
 
 # Internship Experiences
-- **Research Intern**, Alibaba Group, Hangzhou, China, *Dec 2021 - Nov 2023* <br>Funded by <a href='https://damo.alibaba.com/air/'>Alibaba Innovative Research (AIR) Program</a>.<br>Projects: Graph-based Recommendation Systems
+- **Applied Scientist Intern**, Amazon, Seattle, WA, *May 2025 - present* 
+
+- **Research Intern**, Alibaba, Hangzhou, China, *Dec 2021 - Nov 2023* 
+
 
 # Teaching Experiences
 - **Teaching Assistant**, CS527: Database System for Data Science, Rutgers University, *2025 Spring*
@@ -113,8 +118,8 @@ My research interest includes neural machine translation and computer vision. I 
 - **Teaching Assistant**, 11179.01: Web Information Processing and Application, University of Science and Technology of China, *2021 Fall*
 
 # Academic Service
-- Reviewer: ACM TOIS, IEEE TKDE
-- PC Member: WWW 2025, KDD 2025, RecSys 2024/2025
+- Reviewer: ACM TOIS, IEEE TKDE, IEEE TNNLS
+- PC Member: ,RecSys 2024/2025, WWW 2025, KDD 2025, NeurIPS 2025
 
 # Honors and Awards
 - National Scholarship, *Dec 2019*
