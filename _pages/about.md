@@ -60,7 +60,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **Recommender Systems in the Era of Large Language Model Agents: A Survey.** <br><strong><u>Xi Zhu</u></strong>\*, Yu Wang\*, Hang Gao\*, Wujiang Xu\*, Chen Wang, Zhiwei Liu, Kun Wang, Mingyu Jin, Linsey Pang, Qingsong Wen, Philips S. Yu, Yongfeng Zhang. [[Link]](https://www.nowpublishers.com/article/Details/SEC-050)
 
-- **iAgent: LLM Agent as a Shield between User and Recommender Systems.** <br>Wujiang Xu, Yunxiao Shi, Zujie Liang, Xuying Ning, Kai Mei, Kun Wang, <strong><u>Xi Zhu</u></strong>, Min Xu, Yongfeng Zhang. [[Link]](https://arxiv.org/abs/2502.14662)
+- **iAgent: LLM Agent as a Shield between User and Recommender Systems.** <br>Wujiang Xu, Yunxiao Shi, Zujie Liang, Xuying Ning, Kai Mei, Kun Wang, <strong><u>Xi Zhu</u></strong>, Min Xu, Yongfeng Zhang.  <br> In Findings of the 63th Annual Meeting of the Association for Computational Linguistics (ACL 2025), 2025 Accepted. [[Link]](https://arxiv.org/abs/2502.14662)
 
 
 ## Graph Machine Learning
