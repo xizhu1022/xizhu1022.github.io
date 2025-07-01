@@ -54,20 +54,20 @@ My research interest includes neural machine translation and computer vision. I 
 
 ## LLM and LLM Agents
 
-- **DeQA: Decentralized Agentic Question Answering with Tokenomics.** <br><strong><u>Xi Zhu</u></strong>, Zhuoqiao Shen, Jingyuan Huang, Kai Mei, Shuhang Lin, Minghao Guo, Yongfeng Zhang
+- **DeQA: Decentralized Agentic Question Answering with Tokenomics.** <br><strong><u>Xi Zhu</u></strong>, Zhuoqiao Shen, Jingyuan Huang, Kai Mei, Shuhang Lin, Minghao Guo, Yongfeng Zhang.
 
-- **LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS.**  <br>Kai Mei, <strong><u>Xi Zhu</u></strong>, Hang Gao, Shuhang Lin, Yongfeng Zhang. [[Link]](https://arxiv.org/abs/2505.18829) [[Code]](https://github.com/agiresearch/LiteCUA)
+- **LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS.**  <br>Kai Mei, <strong><u>Xi Zhu</u></strong>, Hang Gao, Shuhang Lin, Yongfeng Zhang. <br>arXiv:2505.18829. [[Link]](https://arxiv.org/abs/2505.18829) [[Code]](https://github.com/agiresearch/LiteCUA)
 
 - **AIOS: LLM Agent Operating System.** <br>Kai Mei, <strong><u>Xi Zhu</u></strong>, Wujiang Xu, Wenyue Hua, Mingyu Jin, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang. <br>arXiv:2403.16971. [[Link]](https://arxiv.org/abs/2403.16971) [[Code]](https://github.com/agiresearch/AIOS)
 
 - **Recommender Systems in the Era of Large Language Model Agents: A Survey.** <br><strong><u>Xi Zhu</u></strong>\*, Yu Wang\*, Hang Gao\*, Wujiang Xu\*, Chen Wang, Zhiwei Liu, Kun Wang, Mingyu Jin, Linsey Pang, Qingsong Wen, Philips S. Yu, Yongfeng Zhang. [[Link]](https://www.nowpublishers.com/article/Details/SEC-050)
 
-- **iAgent: LLM Agent as a Shield between User and Recommender Systems.** <br>Wujiang Xu, Yunxiao Shi, Zujie Liang, Xuying Ning, Kai Mei, Kun Wang, <strong><u>Xi Zhu</u></strong>, Min Xu, Yongfeng Zhang.  <br> In Findings of the 63th Annual Meeting of the Association for Computational Linguistics (**ACL 2025**), 2025 Accepted. [[Link]](https://arxiv.org/abs/2502.14662) [[Code]](https://github.com/WujiangXu/iAgent) 
+- **iAgent: LLM Agent as a Shield between User and Recommender Systems.** <br>Wujiang Xu, Yunxiao Shi, Zujie Liang, Xuying Ning, Kai Mei, Kun Wang, <strong><u>Xi Zhu</u></strong>, Min Xu, Yongfeng Zhang.  <br> In Findings of the 63th Annual Meeting of the Association for Computational Linguistics (**ACL 2025**), 2025. [[Link]](https://arxiv.org/abs/2502.14662) [[Code]](https://github.com/WujiangXu/iAgent) 
 
 
 ## Graph Machine Learning
 
-- **LLM as GNN: Graph Vocabulary Learning for Text-attributed Graph Foundation Model.** <br><strong><u>Xi Zhu</u></strong>\*, Haochen Xue\*, Ziwei Zhao, Wujiang Xu, Jingyuan Huang, Minghao Guo, Qifan Wang, Kaixiong Zhou, Yongfeng Zhang. [[Link]](https://arxiv.org/abs/2503.03313v1) 
+- **LLM as GNN: Graph Vocabulary Learning for Text-attributed Graph Foundation Model.** <br><strong><u>Xi Zhu</u></strong>\*, Haochen Xue\*, Ziwei Zhao, Wujiang Xu, Jingyuan Huang, Minghao Guo, Qifan Wang, Kaixiong Zhou, Yongfeng Zhang. <br>arXiv: 2503.03313 [[Link]](https://arxiv.org/abs/2503.03313v1) 
 
 - **Adversarial Attack and Defense on Discrete Time Dynamic Graphs.** <br>Ziwei Zhao, Yu Yang, Zikai Yin, Tong Xu, <strong><u>Xi Zhu</u></strong>, Fake Lin, Xueying Li, Enhong Chen. <br>In IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2024.  [[Link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10623545) 
 
