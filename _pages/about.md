@@ -54,6 +54,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 ## LLM and LLM Agents
 
+- **DeQA: Decentralized Agentic Question Answering with Tokenomics.** <br><strong><u>Xi Zhu</u></strong>, Zhuoqiao Shen, Jingyuan Huang, Kai Mei, Shuhang Lin, Minghao Guo, Yongfeng Zhang
+
 - **LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS.**  <br>Kai Mei, <strong><u>Xi Zhu</u></strong>, Hang Gao, Shuhang Lin, Yongfeng Zhang. [[Link]](https://arxiv.org/abs/2505.18829) [[Code]](https://github.com/agiresearch/LiteCUA)
 
 - **AIOS: LLM Agent Operating System.** <br>Kai Mei, <strong><u>Xi Zhu</u></strong>, Wujiang Xu, Wenyue Hua, Mingyu Jin, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang. <br>arXiv:2403.16971. [[Link]](https://arxiv.org/abs/2403.16971) [[Code]](https://github.com/agiresearch/AIOS)
@@ -71,6 +73,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **Few-shot Link Prediction for Event-based Social Networks via Meta-learning.** <br> <strong><u>Xi Zhu</u></strong>, Pengfei Luo, Ziwei Zhao, Tong Xu, Aakas Lizhiyu, Yu Yu, Xueying Li, Enhong Chen. <br>In Proceedings of the 28th International Conference on Database Systems for Advanced Applications (**DASFAA 2023**), 2023. [[Link]](https://link.springer.com/chapter/10.1007/978-3-031-30675-4_3) [[Code]](https://github.com/xizhu1022/FSLP-EBSNs) [[Competition]](https://tianchi.aliyun.com/competition/entrance/532073/information)
 
+- **Semantic Interaction Matching Network for Few-shot Knowledge Graph Completion.** <br>Pengfei Luo, <strong><u>Xi Zhu</u></strong>, Tong Xu, Yi Zheng, Enhong Chen. <br>In ACM Transactions on the Web (**ACM TWEB**), 2022. [[Link]](https://dl.acm.org/doi/10.1145/3589557) [[Code]](https://github.com/pengfei-luo/SIM)
 
 ## Recommender Systems
 
@@ -85,8 +88,6 @@ My research interest includes neural machine translation and computer vision. I 
 - **Time-interval Aware Share Recommendation via Bi-directional Continuous Time Dynamic Graphs.** <br>Ziwei Zhao, <strong><u>Xi Zhu</u></strong>, Tong Xu, Aakas Lizhiyu, Yu Yu, Xueying Li, Zikai Yin, Enhong Chen. <br>In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**), 2023. [[Link]](https://dl.acm.org/doi/10.1145/3539618.3591775) [[Code]](https://github.com/meteor-gif/DynShare) 
 
 - **H3GNN: Hybrid Hierarchical HyperGraph Neural Network for Personalized Session-based Recommendation.** <br>Zhizhuo Yin, Kai Han, Pengzi Wang, <strong><u>Xi Zhu</u></strong>. <br>In ACM Transactions on Information Systems (**ACM TOIS**), 2023. [[Link]](https://dl.acm.org/doi/10.1145/3630002)
-
-- **Semantic Interaction Matching Network for Few-shot Knowledge Graph Completion.** <br>Pengfei Luo, <strong><u>Xi Zhu</u></strong>, Tong Xu, Yi Zheng, Enhong Chen. <br>In ACM Transactions on the Web (**ACM TWEB**), 2022. [[Link]](https://dl.acm.org/doi/10.1145/3589557) [[Code]](https://github.com/pengfei-luo/SIM)
 
 
 # Education
@@ -111,7 +112,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Academic Service
 - Reviewer: ACM TOIS, IEEE TKDE, IEEE TNNLS
-- PC Member: ,RecSys 2024/2025, WWW 2025, KDD 2025, NeurIPS 2025
+- PC Member: RecSys 2024/2025, WWW 2025, KDD 2025, NeurIPS 2025
 
 # Honors and Awards
 - National Scholarship, *Dec 2019*
