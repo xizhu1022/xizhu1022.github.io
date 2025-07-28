@@ -25,7 +25,7 @@ I received my M.E. degree in Data Science under the supervision of Prof. <a href
 -->
 My research interests include graph machine learning, recommender systems, and large language models and agents.
 
-<p style="color: red;">Please check out my CV <a href='https://drive.google.com/file/d/1Hovxlump-pvqBa8EdIduC5t8KPoJtP0F/view?usp=sharing'>here</a> (Dec 2024).</p>
+<p style="color: red;">Please check out my CV <a href='https://drive.google.com/file/d/1QsoD3qOAAPXcyrv9uehM19EpT_KfbPVU/view?usp=sharing'>here</a> (July 2025).</p>
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
@@ -112,7 +112,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Academic Service
 - Reviewer: ACM TOIS, IEEE TKDE, IEEE TNNLS
-- PC Member: RecSys 2024/2025, WWW 2025, KDD 2025, NeurIPS 2025
+- PC Member: RecSys 2024/2025, WWW 2025, KDD 2025/2026, NeurIPS 2025
 
 # Honors and Awards
 - National Scholarship, *Dec 2019*
