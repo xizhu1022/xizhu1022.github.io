@@ -19,7 +19,7 @@ redirect_from:
 
 # Bio
 
-I am Xi Zhu, a first-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Science</a> at <a href='http://www.rutgers.edu/'>Rutgers University</a>, working with Prof. <a href='http://www.yongfeng.me'>Yongfeng Zhang</a>. 
+I am a first-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Science</a> at <a href='http://www.rutgers.edu/'>Rutgers University</a>, working with Prof. <a href='http://www.yongfeng.me'>Yongfeng Zhang</a>. 
 <!--
 I received my M.E. degree in Data Science under the supervision of Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a> from <a href='http://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a>, where I was a member of <a href='https://bigdata.ustc.edu.cn/'>Anhui Province Key Laboratory of Big Data Analysis and Application (BDAA)</a>, a part of <a href='http://cogskl.iflytek.com/'>State Key Laboratory of Cognitive Intelligence</a>. Prior to that, I obtained my B.E. degree in Computer Science from <a href='https://en.scu.edu.cn/'>Sichuan University (SCU)</a>. 
 -->
@@ -67,7 +67,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 ## Graph Machine Learning
 
-- **LLM as GNN: Graph Vocabulary Learning for Text-attributed Graph Foundation Model.** <br><strong><u>Xi Zhu</u></strong>\*, Haochen Xue\*, Ziwei Zhao, Wujiang Xu, Jingyuan Huang, Minghao Guo, Qifan Wang, Kaixiong Zhou, Yongfeng Zhang. <br>arXiv: 2503.03313 [[Link]](https://arxiv.org/abs/2503.03313v2) [[code]](https://github.com/agiresearch/PromptGFM)
+- **LLM as GNN: Graph Vocabulary Learning for Text-attributed Graph Foundation Model.** <br><strong><u>Xi Zhu</u></strong>\*, Haochen Xue\*, Ziwei Zhao, Wujiang Xu, Jingyuan Huang, Minghao Guo, Qifan Wang, Kaixiong Zhou, Yongfeng Zhang. <br>arXiv: 2503.03313 [[Link]](https://arxiv.org/abs/2503.03313v2) [[Code]](https://github.com/agiresearch/PromptGFM)
 
 - **Adversarial Attack and Defense on Discrete Time Dynamic Graphs.** <br>Ziwei Zhao, Yu Yang, Zikai Yin, Tong Xu, <strong><u>Xi Zhu</u></strong>, Fake Lin, Xueying Li, Enhong Chen. <br>In IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2024.  [[Link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10623545) 
 
