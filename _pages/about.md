@@ -98,7 +98,7 @@ My research interest includes neural machine translation and computer vision. I 
 - **B.E. Student**, 2016 - 2020, <a href='https://en.scu.edu.cn/'>Sichuan University (SCU)</a>, Chengdu, China. <br>**Major:** <a href='https://cs.scu.edu.cn'>Computer Science</a>
 
 # Internship Experiences
-- **Applied Scientist Intern**, Amazon, Seattle, WA, *May 2025 - present* 
+- **Applied Scientist Intern**, Amazon, Seattle, WA, *May 2025 - August 2025* 
 
 - **Research Intern**, Alibaba, Hangzhou, China, *Dec 2021 - Nov 2023* 
 
