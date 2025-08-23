@@ -19,13 +19,13 @@ redirect_from:
 
 # Bio
 
-I am a first-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Science</a> at <a href='http://www.rutgers.edu/'>Rutgers University</a>, working with Prof. <a href='http://www.yongfeng.me'>Yongfeng Zhang</a>.  Currently, I am an Applied Scientist Intern at Amazon. 
+I am a second-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Science</a> at <a href='http://www.rutgers.edu/'>Rutgers University</a>, working with Prof. <a href='http://www.yongfeng.me'>Yongfeng Zhang</a>.  Previously, I was an Applied Scientist Intern at <a href='https://www.amazon.com/'>Amazon</a> and a Research Intern at <a href='https://www.alibaba.com/'>Alibaba</a>. 
 <!--
 I received my M.E. degree in Data Science under the supervision of Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a> from <a href='http://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a>, where I was a member of <a href='https://bigdata.ustc.edu.cn/'>Anhui Province Key Laboratory of Big Data Analysis and Application (BDAA)</a>, a part of <a href='http://cogskl.iflytek.com/'>State Key Laboratory of Cognitive Intelligence</a>. Prior to that, I obtained my B.E. degree in Computer Science from <a href='https://en.scu.edu.cn/'>Sichuan University (SCU)</a>. 
 -->
 My research interests include graph machine learning, recommender systems, and large language models and agents.
 
-<p style="color: black;">Feel free to contact me if you would like to learn more about me, and check out my CV <a href='https://drive.google.com/file/d/1QsoD3qOAAPXcyrv9uehM19EpT_KfbPVU/view?usp=sharing'>here</a> (July 2025).</p>
+<p style="color: black;">Feel free to contact me for discussions and collaborations, and check out my CV <a href='https://drive.google.com/file/d/1QsoD3qOAAPXcyrv9uehM19EpT_KfbPVU/view?usp=sharing'>here</a> (July 2025).</p>
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
@@ -104,7 +104,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # Teaching Experiences
-- **Teaching Assistant**, CS527: Database System for Data Science, Rutgers University, *2025 Spring*
+- **Teaching Assistant**, CS527: Database System for Data Science, Rutgers University, *2025 Spring, 2025 Fall*
 
 - **Teaching Assistant**, CS439: Introduction to Data Science, Rutgers University, *2024 Fall*
 
