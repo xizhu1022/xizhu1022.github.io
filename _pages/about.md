@@ -79,9 +79,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs.** <br><strong><u>Xi Zhu</u></strong>, Fake Lin, Ziwei Zhao, Tong Xu, Xiangyu Zhao, Zikai Yin, Xueying Li, Enhong Chen. <br>In ACM Transactions on Information Systems (**ACM TOIS**), 2024. [[Link]](https://dl.acm.org/doi/10.1145/3696417) [[Code]](https://github.com/xizhu1022/DA-GCN) 
 
-- **When Box Meets Graph Convolutional Network in Tag-aware Recommendation.**<br> Fake Lin, Ziwei Zhao, <strong><u>Xi Zhu</u></strong>, Da Zhang, Shitian Shen, Xueying Li, Tong Xu, Suojuan Zhang, Enhong Chen.<br> In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**),2024. [[Link]](https://arxiv.org/abs/2406.12020) [[Code]](https://github.com/critical88/BoxGNN) 
+- **Knowledge Graph Pruning for Recommendation.** <br>Fake Lin, <strong><u>Xi Zhu</u></strong>, Ziwei Zhao, Deqiang Huang, Yu Yu, Xueying Li, Tong Xu, Enhong Chen. <br>In ACM Transactions on Information Systems (**ACM TOIS**), 2025.  [[Link]](https://arxiv.org/abs/2405.11531)
 
-- **Knowledge Graph Pruning for Recommendation.** <br>Fake Lin, <strong><u>Xi Zhu</u></strong>, Ziwei Zhao, Deqiang Huang, Yu Yu, Xueying Li, Tong Xu, Enhong Chen. <br>arXiv:2405.11531. [[Link]](https://arxiv.org/abs/2405.11531)
+- **When Box Meets Graph Convolutional Network in Tag-aware Recommendation.**<br> Fake Lin, Ziwei Zhao, <strong><u>Xi Zhu</u></strong>, Da Zhang, Shitian Shen, Xueying Li, Tong Xu, Suojuan Zhang, Enhong Chen.<br> In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**),2024. [[Link]](https://arxiv.org/abs/2406.12020) [[Code]](https://github.com/critical88/BoxGNN) 
 
 - **DynLLM: When Large Language Models meet Dynamic Graph Recommendation.** <br>Ziwei Zhao, Fake Lin, <strong><u>Xi Zhu</u></strong>, Zhi Zheng, Tong Xu, Shitian Shen, Xueying Li, Zikai Yin, Enhong Chen. <br>arXiv:2405.07580. [[Link]](https://arxiv.org/abs/2405.07580)
 
