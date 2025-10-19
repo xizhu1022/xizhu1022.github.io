@@ -25,7 +25,7 @@ I received my M.E. degree in Data Science under the supervision of Prof. <a href
 -->
 My research interests include graph machine learning, recommender systems, and large language models and agents.
 
-<p style="color: black;">Feel free to contact me for discussions and collaborations, and check out my CV <a href='https://drive.google.com/file/d/1QsoD3qOAAPXcyrv9uehM19EpT_KfbPVU/view?usp=sharing'>here</a> (July 2025).</p>
+<p style="color: black;">Feel free to contact me for discussions and collaborations, and check out my CV <a href='https://drive.google.com/file/d/1QsoD3qOAAPXcyrv9uehM19EpT_KfbPVU/view?usp=sharing'>here</a> (Oct 2025).</p>
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
@@ -54,7 +54,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 ## LLM and LLM Agents
 
-- **DeQA: Decentralized Agentic Question Answering with Tokenomics.** <br><strong><u>Xi Zhu</u></strong>, Zhuoqiao Shen, Jingyuan Huang, Kai Mei, Shuhang Lin, Minghao Guo, Yongfeng Zhang.
+- **Towards a Tokenomics-Driven Decentralized Ecosystem: An Empirical Study on Question Answering.** <br><strong><u>Xi Zhu</u></strong>, Zhuoqiao Shen, Shuhang Lin, Minghao Guo, Yongfeng Zhang.
 
 - **LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS.**  <br>Kai Mei, <strong><u>Xi Zhu</u></strong>, Hang Gao, Shuhang Lin, Yongfeng Zhang. <br>arXiv:2505.18829. [[Link]](https://arxiv.org/abs/2505.18829) [[Code]](https://github.com/agiresearch/LiteCUA)
 
@@ -67,7 +67,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 ## Graph Machine Learning
 
-- **LLM as GNN: Graph Vocabulary Learning for Text-attributed Graph Foundation Model.** <br><strong><u>Xi Zhu</u></strong>\*, Haochen Xue\*, Ziwei Zhao, Wujiang Xu, Jingyuan Huang, Minghao Guo, Qifan Wang, Kaixiong Zhou, Yongfeng Zhang. <br>arXiv: 2503.03313 [[Link]](https://arxiv.org/abs/2503.03313v2) [[Code]](https://github.com/agiresearch/PromptGFM)
+- **LLM as GNN: Graph Vocabulary Learning for Text-attributed Graph Foundation Model.** <br><strong><u>Xi Zhu</u></strong>\*, Haochen Xue\*, Ziwei Zhao, Wujiang Xu, Jingyuan Huang, Minghao Guo, Qifan Wang, Kaixiong Zhou, Imran Razzak, Yongfeng Zhang. <br>arXiv: 2503.03313 [[Link]](https://arxiv.org/abs/2503.03313v2) [[Code]](https://github.com/agiresearch/PromptGFM)
 
 - **Adversarial Attack and Defense on Discrete Time Dynamic Graphs.** <br>Ziwei Zhao, Yu Yang, Zikai Yin, Tong Xu, <strong><u>Xi Zhu</u></strong>, Fake Lin, Xueying Li, Enhong Chen. <br>In IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2024.  [[Link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10623545) 
 
@@ -104,9 +104,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # Teaching Experiences
-- **Teaching Assistant**, CS527: Database System for Data Science, Rutgers University, *2025 Spring, 2025 Fall*
+- **Teaching Assistant**, CS527: Database System for Data Science, Rutgers University, *2025 Spring*
 
-- **Teaching Assistant**, CS439: Introduction to Data Science, Rutgers University, *2024 Fall*
+- **Teaching Assistant**, CS439: Introduction to Data Science, Rutgers University, *2024 Fall, 2025 Fall*
 
 - **Teaching Assistant**, 11179.01: Web Information Processing and Application, University of Science and Technology of China, *2021 Fall*
 
