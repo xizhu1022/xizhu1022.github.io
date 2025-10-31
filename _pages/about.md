@@ -56,6 +56,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **Towards a Tokenomics-Driven Decentralized Ecosystem: An Empirical Study on Question Answering.** <br><strong><u>Xi Zhu</u></strong>, Zhuoqiao Shen, Shuhang Lin, Minghao Guo, Yongfeng Zhang.
 
+- **TwinVoice: A Multi-dimensional Benchmark Towards Digital Twins via LLM Persona Simulation.**  <br>Bangde Du, Minghao Guo, Songming He, Ziyi Ye, <br><strong><u>Xi Zhu</u></strong>, Weihang Su, Shuqi Zhu, Yujia Zhou, Yongfeng Zhang, Qingyao Ai, Yiqun Liu. <br>arXiv:2510.25536. [[Link]](https://arxiv.org/abs/2510.25536) [[Code]](https://github.com/TwinVoice/TwinBench) [[Dataset]](https://huggingface.co/datasets/bangdedadi/TwinVoice) [[Project]](https://twinvoice.github.io/)
+
 - **LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS.**  <br>Kai Mei, <strong><u>Xi Zhu</u></strong>, Hang Gao, Shuhang Lin, Yongfeng Zhang. <br>arXiv:2505.18829. [[Link]](https://arxiv.org/abs/2505.18829) [[Code]](https://github.com/agiresearch/LiteCUA)
 
 - **AIOS: LLM Agent Operating System.** <br>Kai Mei, <strong><u>Xi Zhu</u></strong>, Wujiang Xu, Wenyue Hua, Mingyu Jin, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang. <br>In Proceedings of the 2nd Conference on Language Modeling (**COLM 2025**), 2025. [[Link]](https://arxiv.org/abs/2403.16971) [[Code]](https://github.com/agiresearch/AIOS) 
@@ -79,7 +81,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs.** <br><strong><u>Xi Zhu</u></strong>, Fake Lin, Ziwei Zhao, Tong Xu, Xiangyu Zhao, Zikai Yin, Xueying Li, Enhong Chen. <br>In ACM Transactions on Information Systems (**ACM TOIS**), 2024. [[Link]](https://dl.acm.org/doi/10.1145/3696417) [[Code]](https://github.com/xizhu1022/DA-GCN) 
 
-- **Knowledge Graph Pruning for Recommendation.** <br>Fake Lin, <strong><u>Xi Zhu</u></strong>, Ziwei Zhao, Deqiang Huang, Yu Yu, Xueying Li, Tong Xu, Enhong Chen. <br>In ACM Transactions on Information Systems (**ACM TOIS**), 2025.  [[Link]](https://arxiv.org/abs/2405.11531)
+- **Knowledge Graph Pruning for Recommendation.** <br>Fake Lin, <strong><u>Xi Zhu</u></strong>, Ziwei Zhao, Deqiang Huang, Yu Yu, Xueying Li, Tong Xu, Enhong Chen. <br>In ACM Transactions on Information Systems (**ACM TOIS**), 2025.  [[Link]](https://arxiv.org/abs/2405.11531) [[Code]](https://github.com/critical88/KGPR)
+
+
 
 - **When Box Meets Graph Convolutional Network in Tag-aware Recommendation.**<br> Fake Lin, Ziwei Zhao, <strong><u>Xi Zhu</u></strong>, Da Zhang, Shitian Shen, Xueying Li, Tong Xu, Suojuan Zhang, Enhong Chen.<br> In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**),2024. [[Link]](https://arxiv.org/abs/2406.12020) [[Code]](https://github.com/critical88/BoxGNN) 
 
