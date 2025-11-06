@@ -58,11 +58,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **TwinVoice: A Multi-dimensional Benchmark Towards Digital Twins via LLM Persona Simulation.**  <br>Bangde Du, Minghao Guo, Songming He, Ziyi Ye, <strong><u>Xi Zhu</u></strong>, Weihang Su, Shuqi Zhu, Yujia Zhou, Yongfeng Zhang, Qingyao Ai, Yiqun Liu. <br>arXiv:2510.25536. [[Link]](https://arxiv.org/abs/2510.25536) [[Code]](https://github.com/TwinVoice/TwinBench) [[Dataset]](https://huggingface.co/datasets/bangdedadi/TwinVoice) [[Project]](https://twinvoice.github.io/)
 
+- **Cache Mechanism for Agent RAG Systems.**  <br>Shuhang Lin, Zhencan Peng, Lingyao Li, Xiao Lin, <strong><u>Xi Zhu</u></strong>, Yongfeng Zhang. <br>arXiv:2511.02919. [[Link]](https://arxiv.org/abs/2511.02919) 
+
 - **LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS.**  <br>Kai Mei, <strong><u>Xi Zhu</u></strong>, Hang Gao, Shuhang Lin, Yongfeng Zhang. <br>arXiv:2505.18829. [[Link]](https://arxiv.org/abs/2505.18829) [[Code]](https://github.com/agiresearch/LiteCUA)
 
-- **AIOS: LLM Agent Operating System.** <br>Kai Mei, <strong><u>Xi Zhu</u></strong>, Wujiang Xu, Wenyue Hua, Mingyu Jin, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang. <br>In Proceedings of the 2nd Conference on Language Modeling (**COLM 2025**), 2025. [[Link]](https://arxiv.org/abs/2403.16971) [[Code]](https://github.com/agiresearch/AIOS) 
-
 - **Recommender Systems Meet Large Language Model Agents: A Survey.** <br><strong><u>Xi Zhu</u></strong>\*, Yu Wang\*, Hang Gao\*, Wujiang Xu\*, Chen Wang, Zhiwei Liu, Kun Wang, Mingyu Jin, Linsey Pang, Qingsong Wen, Philips S. Yu, Yongfeng Zhang. <br>In Foundations and Trends in Privacy and Security, 2025. [[Link]](https://www.nowpublishers.com/article/Details/SEC-050) [[pdf]](papers/SEC-050.pdf)
+
+- **AIOS: LLM Agent Operating System.** <br>Kai Mei, <strong><u>Xi Zhu</u></strong>, Wujiang Xu, Wenyue Hua, Mingyu Jin, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang. <br>In Proceedings of the 2nd Conference on Language Modeling (**COLM 2025**), 2025. [[Link]](https://arxiv.org/abs/2403.16971) [[Code]](https://github.com/agiresearch/AIOS) 
 
 - **iAgent: LLM Agent as a Shield between User and Recommender Systems.** <br>Wujiang Xu, Yunxiao Shi, Zujie Liang, Xuying Ning, Kai Mei, Kun Wang, <strong><u>Xi Zhu</u></strong>, Min Xu, Yongfeng Zhang.  <br> In Findings of the 63th Annual Meeting of the Association for Computational Linguistics (**ACL 2025**), 2025. [[Link]](https://arxiv.org/abs/2502.14662) [[Code]](https://github.com/WujiangXu/iAgent) 
 
