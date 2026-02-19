@@ -54,6 +54,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 ## LLM and LLM Agents
 
+- **RAGRouter-Bench: A Dataset and Benchmark for Adaptive RAG Routing.**  <br>Ziqi Wang, <strong><u>Xi Zhu</u></strong>, Shuhang Lin, Haochen Xue, Minghao Guo, Yongfeng Zhang. <br>arXiv:2602.00296. [[Link]](https://arxiv.org/abs/2602.00296) [[Code]](https://github.com/ziqiwang0908/RAGRouter-Bench) [[Dataset]](https://huggingface.co/datasets/Chaplain0908/RAGRouter)
+
 - **Towards a Tokenomics-Driven Decentralized Ecosystem: An Empirical Study on Question Answering.** <br><strong><u>Xi Zhu</u></strong>, Zhuoqiao Shen, Shuhang Lin, Minghao Guo, Yongfeng Zhang.
 
 - **TwinVoice: A Multi-dimensional Benchmark Towards Digital Twins via LLM Persona Simulation.**  <br>Bangde Du, Minghao Guo, Songming He, Ziyi Ye, <strong><u>Xi Zhu</u></strong>, Weihang Su, Shuqi Zhu, Yujia Zhou, Yongfeng Zhang, Qingyao Ai, Yiqun Liu. <br>arXiv:2510.25536. [[Link]](https://arxiv.org/abs/2510.25536) [[Code]](https://github.com/TwinVoice/TwinBench) [[Dataset]](https://huggingface.co/datasets/bangdedadi/TwinVoice) [[Project]](https://twinvoice.github.io/)
@@ -80,6 +82,8 @@ My research interest includes neural machine translation and computer vision. I 
 ## Recommender Systems
 
 - **Recommender Systems Meet Large Language Model Agents: A Survey.** <br><strong><u>Xi Zhu</u></strong>\*, Yu Wang\*, Hang Gao\*, Wujiang Xu\*, Chen Wang, Zhiwei Liu, Kun Wang, Mingyu Jin, Linsey Pang, Qingsong Wen, Philips S. Yu, Yongfeng Zhang. <br>In Foundations and Trends in Privacy and Security, 2025. [[Link]](https://www.nowpublishers.com/article/Details/SEC-050) [[pdf]](papers/SEC-050.pdf)
+
+- **Token-level Collaborative Alignment for LLM-based Generative Recommendation.** Fake Lin, Binbin HuBinbin Hu, Zhi Zheng, <br><strong><u>Xi Zhu</u></strong>, Ziqi Liu, Zhiqiang Zhang, Jun Zhou, Tong Xu. <br>In Proceedings of the Web Conference 2026 (**WWW 2026**), 2026. [[Link]](https://arxiv.org/abs/2601.18457) [[Code]](https://github.com/critical88/TCA4Rec) 
 
 - **Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs.** <br><strong><u>Xi Zhu</u></strong>, Fake Lin, Ziwei Zhao, Tong Xu, Xiangyu Zhao, Zikai Yin, Xueying Li, Enhong Chen. <br>In ACM Transactions on Information Systems (**ACM TOIS**), 2024. [[Link]](https://dl.acm.org/doi/10.1145/3696417) [[Code]](https://github.com/xizhu1022/DA-GCN) 
 
