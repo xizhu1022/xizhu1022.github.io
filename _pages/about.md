@@ -56,7 +56,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **RAGRouter-Bench: A Dataset and Benchmark for Adaptive RAG Routing.**  <br>Ziqi Wang, <strong><u>Xi Zhu</u></strong>, Shuhang Lin, Haochen Xue, Minghao Guo, Yongfeng Zhang. <br>arXiv:2602.00296. [[Link]](https://arxiv.org/abs/2602.00296) [[Code]](https://github.com/ziqiwang0908/RAGRouter-Bench) [[Dataset]](https://huggingface.co/datasets/Chaplain0908/RAGRouter)
 
-- **Towards a Tokenomics-Driven Decentralized Ecosystem: An Empirical Study on Question Answering.** <br><strong><u>Xi Zhu</u></strong>, Zhuoqiao Shen, Shuhang Lin, Minghao Guo, Yongfeng Zhang.
+- **Towards a Tokenomics-Driven Decentralized Ecosystem for Agent Society.** <br><strong><u>Xi Zhu</u></strong>, Zhuoqiao Shen, Ziqi Wang, Shuhang Lin, Minghao Guo, Yongfeng Zhang.
 
 - **Individual Turing Test: A Case Study of LLM-based Simulation Using Longitudinal Personal Data.**  <br>Minghao Guo, Ziyi Ye, Wujiang Xu, <strong><u>Xi Zhu</u></strong>, Weihang Su, Shuqi Zhu, Yujia Zhou, Yongfeng Zhang, Qingyao Ai, Yiqun Liu. <br>In Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2026**), 2026. [[Link]](https://arxiv.org/abs/2510.25536) 
 
