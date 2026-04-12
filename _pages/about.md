@@ -19,13 +19,13 @@ redirect_from:
 
 # Bio
 
-I am a second-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Science</a> at <a href='http://www.rutgers.edu/'>Rutgers University</a>, working with Prof. <a href='http://www.yongfeng.me'>Yongfeng Zhang</a>.  Previously, I was an Applied Scientist Intern at <a href='https://www.aboutamazon.com/'>Amazon</a> and a Research Intern at <a href='https://www.alibaba.com/'>Alibaba</a>. 
-<!--
-I received my M.E. degree in Data Science under the supervision of Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a> from <a href='http://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a>, where I was a member of <a href='https://bigdata.ustc.edu.cn/'>Anhui Province Key Laboratory of Big Data Analysis and Application (BDAA)</a>, a part of <a href='http://cogskl.iflytek.com/'>State Key Laboratory of Cognitive Intelligence</a>. Prior to that, I obtained my B.E. degree in Computer Science from <a href='https://en.scu.edu.cn/'>Sichuan University (SCU)</a>. 
--->
-My research interests include graph machine learning, recommender systems, and large language models and agents.
+I am a second-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Science</a> at <a href='http://www.rutgers.edu/'>Rutgers University</a>. My research interests include graph machine learning, recommender systems, and large language models and agents. Recently, I am interested in adaptive RAG, self-evolving and continued learning for LLM agents.
 
-<p style="color: black;">Feel free to contact me for discussions and collaborations, and check out my CV <a href='https://drive.google.com/file/d/1QsoD3qOAAPXcyrv9uehM19EpT_KfbPVU/view?usp=sharing'>here</a> (Oct 2025).</p>
+<!--
+In Summer 2026, I will join TikTok as a Research Scientist Intern in San Jose, CA.
+-->
+
+<p style="color: black;">I am always looking for internship and collaboration opportunities. Feel free to connect and check out my CV <a href='https://drive.google.com/file/d/1QsoD3qOAAPXcyrv9uehM19EpT_KfbPVU/view?usp=sharing'>here</a> (Oct 2025).</p>
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
@@ -52,15 +52,17 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 -->
 
-## LLM and LLM Agents
+## RAG and LLM Agents
 
 - **RAGRouter-Bench: A Dataset and Benchmark for Adaptive RAG Routing.**  <br>Ziqi Wang, <strong><u>Xi Zhu</u></strong>, Shuhang Lin, Haochen Xue, Minghao Guo, Yongfeng Zhang. <br>arXiv:2602.00296. [[Link]](https://arxiv.org/abs/2602.00296) [[Code]](https://github.com/ziqiwang0908/RAGRouter-Bench) [[Dataset]](https://huggingface.co/datasets/Chaplain0908/RAGRouter)
 
 - **Towards a Tokenomics-Driven Decentralized Ecosystem: An Empirical Study on Question Answering.** <br><strong><u>Xi Zhu</u></strong>, Zhuoqiao Shen, Shuhang Lin, Minghao Guo, Yongfeng Zhang.
 
-- **TwinVoice: A Multi-dimensional Benchmark Towards Digital Twins via LLM Persona Simulation.**  <br>Bangde Du, Minghao Guo, Songming He, Ziyi Ye, <strong><u>Xi Zhu</u></strong>, Weihang Su, Shuqi Zhu, Yujia Zhou, Yongfeng Zhang, Qingyao Ai, Yiqun Liu. <br>arXiv:2510.25536. [[Link]](https://arxiv.org/abs/2510.25536) [[Code]](https://github.com/TwinVoice/TwinBench) [[Dataset]](https://huggingface.co/datasets/bangdedadi/TwinVoice) [[Project]](https://twinvoice.github.io/)
+- **Individual Turing Test: A Case Study of LLM-based Simulation Using Longitudinal Personal Data.**  <br>Minghao Guo, Ziyi Ye, Wujiang Xu, <strong><u>Xi Zhu</u></strong>, Weihang Su, Shuqi Zhu, Yujia Zhou, Yongfeng Zhang, Qingyao Ai, Yiqun Liu. <br>In Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2026**), 2026. [[Link]](https://arxiv.org/abs/2510.25536) 
 
-- **Cache Mechanism for Agent RAG Systems.**  <br>Shuhang Lin, Zhencan Peng, Lingyao Li, Xiao Lin, <strong><u>Xi Zhu</u></strong>, Yongfeng Zhang. <br>arXiv:2511.02919. [[Link]](https://arxiv.org/abs/2511.02919) 
+- **TwinVoice: A Multi-dimensional Benchmark Towards Digital Twins via LLM Persona Simulation.**  <br>Bangde Du, Minghao Guo, Songming He, Ziyi Ye, <strong><u>Xi Zhu</u></strong>, Wenyue Hua, Dimitris N. Metaxas. <br>In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (**ACL 2026**), 2026. [[Link]](https://arxiv.org/abs/2510.25536) [[Code]](https://github.com/TwinVoice/TwinBench) [[Dataset]](https://huggingface.co/datasets/bangdedadi/TwinVoice) [[Project]](https://twinvoice.github.io/)
+
+- **Cache Mechanism for Agent RAG Systems.**  <br>Shuhang Lin, Zhencan Peng, Lingyao Li, Xiao Lin, <strong><u>Xi Zhu</u></strong>, Yongfeng Zhang. <br>In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (**ACL 2026**), 2026. [[Link]](https://arxiv.org/abs/2511.02919) 
 
 - **LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS.**  <br>Kai Mei, <strong><u>Xi Zhu</u></strong>, Hang Gao, Shuhang Lin, Yongfeng Zhang. <br>arXiv:2505.18829. [[Link]](https://arxiv.org/abs/2505.18829) [[Code]](https://github.com/agiresearch/LiteCUA)
 
@@ -112,7 +114,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # Teaching Experiences
-- **Teaching Assistant**, CS527: Database System for Data Science, Rutgers University, *2025 Spring*
+- **Teaching Assistant**, CS527: Database System for Data Science, Rutgers University, *2025 Spring, 2026 Spring*
 
 - **Teaching Assistant**, CS439: Introduction to Data Science, Rutgers University, *2024 Fall, 2025 Fall*
 
@@ -120,7 +122,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Academic Service
 - Reviewer: ACM TOIS, IEEE TKDE, IEEE TNNLS
-- PC Member: RecSys 2024/2025, WWW 2025, KDD 2025/2026, NeurIPS 2025
+- PC Member: RecSys 2024/2025/2026, WWW 2025, KDD 2025/2026, NeurIPS 2025, SIGIR 2026
 
 # Honors and Awards
 - National Scholarship, *Dec 2019*
