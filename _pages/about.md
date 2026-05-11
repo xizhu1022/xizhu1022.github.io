@@ -21,40 +21,17 @@ redirect_from:
 
 I am a second-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Science</a> at <a href='http://www.rutgers.edu/'>Rutgers University</a>. My research interests include graph machine learning, recommender systems, and large language models and agents. Recently, I am interested in adaptive RAG, self-evolving and continued learning for LLM agents.
 
-<!--
-In Summer 2026, I will join TikTok as a Research Scientist Intern in San Jose, CA.
--->
-
 <p style="color: black;">I am always looking for internship and collaboration opportunities. Feel free to connect and check out my CV <a href='https://drive.google.com/file/d/1QsoD3qOAAPXcyrv9uehM19EpT_KfbPVU/view?usp=sharing'>here</a> (Oct 2025).</p>
-<!--
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
--->
 
-
-<!--
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
 
 # Publications 
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
--->
 
 ## RAG and LLM Agents
 
-- **RAGRouter-Bench: A Dataset and Benchmark for Adaptive RAG Routing.**  <br>Ziqi Wang, <strong><u>Xi Zhu</u></strong>, Shuhang Lin, Haochen Xue, Minghao Guo, Yongfeng Zhang. <br>arXiv:2602.00296. [[Link]](https://arxiv.org/abs/2602.00296) [[Code]](https://github.com/ziqiwang0908/RAGRouter-Bench) [[Dataset]](https://huggingface.co/datasets/Chaplain0908/RAGRouter)
+- **Trust or Abstain? A Self-Aware RAG Approach.**  <br><strong><u>Xi Zhu</u></strong>, Ziqi Wang, Kai Mei, Wujiang Xu, Minghao Guo, Bangji Yang, Jiajun Fan, Dimitris N. Metaxas. <br> [[Code]](https://github.com/xizhu1022/SABER) 
+
+- **RAGRouter-Bench: A Dataset and Benchmark for Adaptive RAG Routing.**  <br>Ziqi Wang\*, <strong><u>Xi Zhu</u></strong>\*, Shuhang Lin, Haochen Xue, Minghao Guo, Yongfeng Zhang. <br>arXiv:2602.00296. [[Link]](https://arxiv.org/abs/2602.00296) [[Code]](https://github.com/ziqiwang0908/RAGRouter-Bench) [[Dataset]](https://huggingface.co/datasets/Chaplain0908/RAGRouter)
 
 - **Towards a Tokenomics-Driven Decentralized Ecosystem for Agent Society.** <br><strong><u>Xi Zhu</u></strong>, Zhuoqiao Shen, Ziqi Wang, Shuhang Lin, Minghao Guo, Yongfeng Zhang.
 
@@ -85,7 +62,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **Recommender Systems Meet Large Language Model Agents: A Survey.** <br><strong><u>Xi Zhu</u></strong>\*, Yu Wang\*, Hang Gao\*, Wujiang Xu\*, Chen Wang, Zhiwei Liu, Kun Wang, Mingyu Jin, Linsey Pang, Qingsong Wen, Philips S. Yu, Yongfeng Zhang. <br>In Foundations and Trends in Privacy and Security, 2025. [[Link]](https://www.nowpublishers.com/article/Details/SEC-050) [[pdf]](papers/SEC-050.pdf)
 
-- **Token-level Collaborative Alignment for LLM-based Generative Recommendation.** Fake Lin, Binbin HuBinbin Hu, Zhi Zheng, <br><strong><u>Xi Zhu</u></strong>, Ziqi Liu, Zhiqiang Zhang, Jun Zhou, Tong Xu. <br>In Proceedings of the Web Conference 2026 (**WWW 2026**), 2026. [[Link]](https://arxiv.org/abs/2601.18457) [[Code]](https://github.com/critical88/TCA4Rec) 
+- **Token-level Collaborative Alignment for LLM-based Generative Recommendation.** <br>Fake Lin, Binbin HuBinbin Hu, Zhi Zheng, <br><strong><u>Xi Zhu</u></strong>, Ziqi Liu, Zhiqiang Zhang, Jun Zhou, Tong Xu. <br>In Proceedings of the Web Conference 2026 (**WWW 2026**), 2026. [[Link]](https://arxiv.org/abs/2601.18457) [[Code]](https://github.com/critical88/TCA4Rec) 
 
 - **Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs.** <br><strong><u>Xi Zhu</u></strong>, Fake Lin, Ziwei Zhao, Tong Xu, Xiangyu Zhao, Zikai Yin, Xueying Li, Enhong Chen. <br>In ACM Transactions on Information Systems (**ACM TOIS**), 2024. [[Link]](https://dl.acm.org/doi/10.1145/3696417) [[Code]](https://github.com/xizhu1022/DA-GCN) 
 
@@ -132,24 +109,3 @@ My research interest includes neural machine translation and computer vision. I 
 - First-class Comprehensive Scholarship of SCU, *2019*
 - Second-class Comprehensive Scholarship of SCU (two times), *2017, 2018*
 - Third Prize, National Undergraduate Mathematics Competition of China, *Dec 2017*
-
-
-<!--
-# Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
-<!--
-# Patents 
-
-- **Method, System, Device and Storage Medium of Few-shot Knowledge Graph Completion.** <br> Tong Xu, Enhong Chen, Pengfei Luo, <strong><u>Xi Zhu</u></strong>. <br> CN202210492838, China, Granted.
-
-- **Model Training Method, Object Recommendation Algorithm and Related Devices for Realizing Object Recommendation.** <br>Zhizhuo Yin, <strong><u>Xi Zhu</u></strong>, Ziwei Zhao, Pengzi Wang, Yu Yu, Xueying Li. <br> CN202310173248, China, Published.
-
-- **Methods, Devices, Equipment and Storage Media for Information Sharing Processing.** <br>Ziwei Zhao, Yu Yu, Xueying Li, <strong><u>Xi Zhu</u></strong>. <br> CN202211328249, China, Published.
-
-- **Method, System, Device and Storage Medium of Knowledge Graph Pruning for Recommendation.** <br>Fake Lin, <strong><u>Xi Zhu</u></strong>, Ziwei Zhao, Shitian Shen, Xueying Li. <br> CN202310173248, China, Published.
-
-- **Method and System of Multi-behavior Recommendation Based on Directed Acyclic Behavior Graphs.** <br><strong><u>Xi Zhu</u></strong>, Fake Lin, Ziwei Zhao, Shitian Shen, Xueying Li, Zhizhuo Yin, Pengzi Wang. <br> CN202311146600, China, Published.
-
--->
