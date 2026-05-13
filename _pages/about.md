@@ -24,7 +24,7 @@ I am a second-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Sc
 <p style="color: black;">I am always looking for internship and collaboration opportunities. Feel free to connect and check out my CV <a href='https://drive.google.com/file/d/1QsoD3qOAAPXcyrv9uehM19EpT_KfbPVU/view?usp=sharing'>here</a> (Oct 2025).</p>
 
 
-# Publications 
+# Selected Publications 
 
 
 ## RAG and LLM Agents
@@ -41,7 +41,7 @@ I am a second-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Sc
 
 - **Cache Mechanism for Agent RAG Systems.**  <br>Shuhang Lin, Zhencan Peng, Lingyao Li, Xiao Lin, <strong><u>Xi Zhu</u></strong>, Yongfeng Zhang. <br>In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (**ACL 2026**), 2026. [[Link]](https://arxiv.org/abs/2511.02919) 
 
-- **LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS.**  <br>Kai Mei, <strong><u>Xi Zhu</u></strong>, Hang Gao, Shuhang Lin, Yongfeng Zhang. <br>arXiv:2505.18829. [[Link]](https://arxiv.org/abs/2505.18829) [[Code]](https://github.com/agiresearch/LiteCUA)
+<!-- - **LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS.**  <br>Kai Mei, <strong><u>Xi Zhu</u></strong>, Hang Gao, Shuhang Lin, Yongfeng Zhang. <br>arXiv:2505.18829. [[Link]](https://arxiv.org/abs/2505.18829) [[Code]](https://github.com/agiresearch/LiteCUA) -->
 
 - **AIOS: LLM Agent Operating System.** <br>Kai Mei, <strong><u>Xi Zhu</u></strong>, Wujiang Xu, Wenyue Hua, Mingyu Jin, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang. <br>In Proceedings of the 2nd Conference on Language Modeling (**COLM 2025**), 2025. [[Link]](https://arxiv.org/abs/2403.16971) [[Code]](https://github.com/agiresearch/AIOS) 
 
@@ -62,7 +62,7 @@ I am a second-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Sc
 
 - **Recommender Systems Meet Large Language Model Agents: A Survey.** <br><strong><u>Xi Zhu</u></strong>\*, Yu Wang\*, Hang Gao\*, Wujiang Xu\*, Chen Wang, Zhiwei Liu, Kun Wang, Mingyu Jin, Linsey Pang, Qingsong Wen, Philips S. Yu, Yongfeng Zhang. <br>In Foundations and Trends in Privacy and Security, 2025. [[Link]](https://www.nowpublishers.com/article/Details/SEC-050) [[pdf]](papers/SEC-050.pdf)
 
-- **Token-level Collaborative Alignment for LLM-based Generative Recommendation.** <br>Fake Lin, Binbin HuBinbin Hu, Zhi Zheng, <br><strong><u>Xi Zhu</u></strong>, Ziqi Liu, Zhiqiang Zhang, Jun Zhou, Tong Xu. <br>In Proceedings of the Web Conference 2026 (**WWW 2026**), 2026. [[Link]](https://arxiv.org/abs/2601.18457) [[Code]](https://github.com/critical88/TCA4Rec) 
+- **Token-level Collaborative Alignment for LLM-based Generative Recommendation.** <br>Fake Lin, Binbin HuBinbin Hu, Zhi Zheng, <strong><u>Xi Zhu</u></strong>, Ziqi Liu, Zhiqiang Zhang, Jun Zhou, Tong Xu. <br>In Proceedings of the Web Conference 2026 (**WWW 2026**), 2026. [[Link]](https://arxiv.org/abs/2601.18457) [[Code]](https://github.com/critical88/TCA4Rec) 
 
 - **Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs.** <br><strong><u>Xi Zhu</u></strong>, Fake Lin, Ziwei Zhao, Tong Xu, Xiangyu Zhao, Zikai Yin, Xueying Li, Enhong Chen. <br>In ACM Transactions on Information Systems (**ACM TOIS**), 2024. [[Link]](https://dl.acm.org/doi/10.1145/3696417) [[Code]](https://github.com/xizhu1022/DA-GCN) 
 
@@ -78,7 +78,8 @@ I am a second-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Sc
 
 
 # Education
-- **Ph.D. Student**, 2024 - present, <a href='http://www.rutgers.edu/'>Rutgers University</a>, New Brunswick, NJ. <br>**Major:** <a href='https://cs.rutgers.edu'>Computer Science</a>   <br>**Advisor**: Prof. <a href='http://www.yongfeng.me'>Yongfeng Zhang</a>
+- **Ph.D. Student**, 2024 - present, <a href='http://www.rutgers.edu/'>Rutgers University</a>, New Brunswick, NJ. <br>**Major:** <a href='https://cs.rutgers.edu'>Computer Science</a>   
+<!-- <br>**Advisor**: Prof. <a href='http://www.yongfeng.me'>Yongfeng Zhang</a> -->
 
 - **M.E. Student**, 2020 - 2023, <a href='http://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a>, Hefei, China. <br>**Major:** <a href='https://saids.ustc.edu.cn'>Computer Science (Data Science)</a>   <br>**Advisors**: Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen (IEEE Fellow)</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a><br>**Affiliation**: <a href='https://bigdata.ustc.edu.cn/'>State Key Laboratory of Cognitive Intelligence</a>
 
