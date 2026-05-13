@@ -78,14 +78,15 @@ I am a second-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Sc
 
 
 # Education
-- **Ph.D. Student**, 2024 - present, <a href='http://www.rutgers.edu/'>Rutgers University</a>, New Brunswick, NJ. <br>**Major:** <a href='https://cs.rutgers.edu'>Computer Science</a>   
-<!-- <br>**Advisor**: Prof. <a href='http://www.yongfeng.me'>Yongfeng Zhang</a> -->
+- **Ph.D. Student**, 2024 - present, <a href='http://www.rutgers.edu/'>Rutgers University</a>, New Brunswick, NJ. <br>**Major:** <a href='https://cs.rutgers.edu'>Computer Science</a>   <br>**Advisor**: Prof. <a href='https://people.cs.rutgers.edu/~dnm/'>Dimitris N. Metaxas</a>
 
 - **M.E. Student**, 2020 - 2023, <a href='http://en.ustc.edu.cn/'>University of Science and Technology of China (USTC)</a>, Hefei, China. <br>**Major:** <a href='https://saids.ustc.edu.cn'>Computer Science (Data Science)</a>   <br>**Advisors**: Prof. <a href='http://staff.ustc.edu.cn/~cheneh/'>En-Hong Chen (IEEE Fellow)</a> and Prof. <a href='http://staff.ustc.edu.cn/~tongxu/'>Tong Xu</a><br>**Affiliation**: <a href='https://bigdata.ustc.edu.cn/'>State Key Laboratory of Cognitive Intelligence</a>
 
 - **B.E. Student**, 2016 - 2020, <a href='https://en.scu.edu.cn/'>Sichuan University (SCU)</a>, Chengdu, China. <br>**Major:** <a href='https://cs.scu.edu.cn'>Computer Science</a>
 
 # Internship Experiences
+- **Research Scientist Intern**, TikTok, San Jose, CA, *May 2026 - Present* 
+
 - **Applied Scientist Intern**, Amazon, Seattle, WA, *May 2025 - August 2025* 
 
 - **Research Intern**, Alibaba, Hangzhou, China, *Dec 2021 - Nov 2023* 
