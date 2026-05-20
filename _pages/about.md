@@ -29,7 +29,7 @@ I am a second-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Sc
 
 ## RAG and LLM Agents
 
-- **Trust or Abstain? A Self-Aware RAG Approach.**  <br><strong><u>Xi Zhu</u></strong>, Ziqi Wang, Kai Mei, Wujiang Xu, Minghao Guo, Bangji Yang, Jiajun Fan, Dimitris N. Metaxas. <br> [[Code]](https://github.com/xizhu1022/SABER) 
+- **Trust or Abstain? A Self-Aware RAG Approach.**  <br><strong><u>Xi Zhu</u></strong>, Ziqi Wang, Kai Mei, Wujiang Xu, Minghao Guo, Bangji Yang, Jiajun Fan, Dimitris N. Metaxas. <br> arXiv:2605.18792. [[Link]](https://arxiv.org/abs/2605.18792) [[Code]](https://github.com/xizhu1022/SABER) 
 
 - **RAGRouter-Bench: A Dataset and Benchmark for Adaptive RAG Routing.**  <br>Ziqi Wang\*, <strong><u>Xi Zhu</u></strong>\*, Shuhang Lin, Haochen Xue, Minghao Guo, Yongfeng Zhang. <br>arXiv:2602.00296. [[Link]](https://arxiv.org/abs/2602.00296) [[Code]](https://github.com/ziqiwang0908/RAGRouter-Bench) [[Dataset]](https://huggingface.co/datasets/Chaplain0908/RAGRouter)
 
