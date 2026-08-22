@@ -27,7 +27,7 @@ I am a second-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Sc
 In Summer 2026, I will join TikTok as a Research Scientist Intern in San Jose, CA.
 -->
 
-<p style="color: black;">I am always looking for internship and collaboration opportunities. Feel free to connect and check out my CV <a href='https://drive.google.com/file/d/1QsoD3qOAAPXcyrv9uehM19EpT_KfbPVU/view?usp=sharing'>here</a> (Oct 2025).</p>
+<p style="color: black;">I am always looking for internship and collaboration opportunities. Feel free to connect and check out my CV <a href='files/CV.pdf'>here</a> (Aug 2026).</p>
 
 # Publications 
 {% for section in site.data.publications %}

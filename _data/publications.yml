@@ -128,7 +128,7 @@
         - name: Link
           url: https://www.nowpublishers.com/article/Details/SEC-050
         - name: pdf
-          url: papers/SEC-050.pdf
+          url: files/SEC-050.pdf
 
     - title: "Token-level Collaborative Alignment for LLM-based Generative Recommendation"
       authors: "Fake Lin, Binbin Hu, Zhi Zheng, Xi Zhu, Ziqi Liu, Zhiqiang Zhang, Jun Zhou, Tong Xu"

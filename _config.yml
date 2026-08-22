@@ -15,7 +15,7 @@ google_scholar_stats_use_cdn : false
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  google1ed9389f6bb35cbf.html # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  # verified via google1ed9389f6bb35cbf.html in the site root; this meta-tag field is not needed
 bing_site_verification   :  521B9003A32DFE1E358B24EBA44976F2 # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
