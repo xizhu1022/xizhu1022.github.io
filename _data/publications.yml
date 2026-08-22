@@ -1,0 +1,192 @@
+# Publication list rendered on the homepage (_pages/about.md).
+# To add a paper, append an entry under the right section; "Xi Zhu" in the
+# authors string is automatically bolded/underlined by the page template.
+- section: RAG and LLM Agents
+  papers:
+    - title: "RAGRouter-Bench: A Dataset and Benchmark for Adaptive RAG Routing"
+      authors: "Ziqi Wang, Xi Zhu, Shuhang Lin, Haochen Xue, Minghao Guo, Yongfeng Zhang"
+      venue: "arXiv:2602.00296."
+      links:
+        - name: Link
+          url: https://arxiv.org/abs/2602.00296
+        - name: Code
+          url: https://github.com/ziqiwang0908/RAGRouter-Bench
+        - name: Dataset
+          url: https://huggingface.co/datasets/Chaplain0908/RAGRouter
+
+    - title: "Towards a Tokenomics-Driven Decentralized Ecosystem for Agent Society"
+      authors: "Xi Zhu, Zhuoqiao Shen, Ziqi Wang, Shuhang Lin, Minghao Guo, Yongfeng Zhang"
+      venue: "Preprint."
+
+    - title: "AEL: Agent Evolving Learning for Open-Ended Environments"
+      authors: "Wujiang Xu, Jiaojiao Han, Minghao Guo, Kai Mei, Xi Zhu, Han Zhang, Dimitris N. Metaxas"
+      venue: "In Findings of the 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**), 2026."
+      links:
+        - name: Link
+          url: https://arxiv.org/abs/2604.21725
+        - name: Code
+          url: https://github.com/WujiangXu/AEL
+
+    - title: "Individual Turing Test: A Case Study of LLM-based Simulation Using Longitudinal Personal Data"
+      authors: "Minghao Guo, Ziyi Ye, Wujiang Xu, Xi Zhu, Weihang Su, Shuqi Zhu, Yujia Zhou, Yongfeng Zhang, Qingyao Ai, Yiqun Liu"
+      venue: "In Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2026**), 2026."
+      links:
+        - name: Link
+          url: https://arxiv.org/abs/2603.01289
+
+    - title: "TwinVoice: A Multi-dimensional Benchmark Towards Digital Twins via LLM Persona Simulation"
+      authors: "Bangde Du, Minghao Guo, Songming He, Ziyi Ye, Xi Zhu, Wenyue Hua, Dimitris N. Metaxas"
+      venue: "In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (**ACL 2026**), 2026."
+      links:
+        - name: Link
+          url: https://arxiv.org/abs/2510.25536
+        - name: Code
+          url: https://github.com/TwinVoice/TwinBench
+        - name: Dataset
+          url: https://huggingface.co/datasets/bangdedadi/TwinVoice
+        - name: Project
+          url: https://twinvoice.github.io/
+
+    - title: "Cache Mechanism for Agent RAG Systems"
+      authors: "Shuhang Lin, Zhencan Peng, Lingyao Li, Xiao Lin, Xi Zhu, Yongfeng Zhang"
+      venue: "In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (**ACL 2026**), 2026."
+      links:
+        - name: Link
+          url: https://arxiv.org/abs/2511.02919
+
+    - title: "LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS"
+      authors: "Kai Mei, Xi Zhu, Hang Gao, Shuhang Lin, Yongfeng Zhang"
+      venue: "arXiv:2505.18829."
+      links:
+        - name: Link
+          url: https://arxiv.org/abs/2505.18829
+        - name: Code
+          url: https://github.com/agiresearch/LiteCUA
+
+    - title: "AIOS: LLM Agent Operating System"
+      authors: "Kai Mei, Xi Zhu, Wujiang Xu, Wenyue Hua, Mingyu Jin, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang"
+      venue: "In Proceedings of the 2nd Conference on Language Modeling (**COLM 2025**), 2025."
+      links:
+        - name: Link
+          url: https://arxiv.org/abs/2403.16971
+        - name: Code
+          url: https://github.com/agiresearch/AIOS
+
+    - title: "iAgent: LLM Agent as a Shield between User and Recommender Systems"
+      authors: "Wujiang Xu, Yunxiao Shi, Zujie Liang, Xuying Ning, Kai Mei, Kun Wang, Xi Zhu, Min Xu, Yongfeng Zhang"
+      venue: "In Findings of the 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**), 2025."
+      links:
+        - name: Link
+          url: https://arxiv.org/abs/2502.14662
+        - name: Code
+          url: https://github.com/WujiangXu/iAgent
+
+- section: Graph Machine Learning
+  papers:
+    - title: "LLM as GNN: Graph Vocabulary Learning for Text-attributed Graph Foundation Models"
+      authors: 'Xi Zhu\*, Haochen Xue\*, Ziwei Zhao, Wujiang Xu, Jingyuan Huang, Minghao Guo, Qifan Wang, Kaixiong Zhou, Imran Razzak, Yongfeng Zhang'
+      venue: "In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**), 2026."
+      links:
+        - name: Link
+          url: https://arxiv.org/abs/2503.03313v2
+        - name: Code
+          url: https://github.com/agiresearch/PromptGFM
+
+    - title: "Adversarial Attack and Defense on Discrete Time Dynamic Graphs"
+      authors: "Ziwei Zhao, Yu Yang, Zikai Yin, Tong Xu, Xi Zhu, Fake Lin, Xueying Li, Enhong Chen"
+      venue: "In IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2024."
+      links:
+        - name: Link
+          url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10623545
+
+    - title: "Few-shot Link Prediction for Event-based Social Networks via Meta-learning"
+      authors: "Xi Zhu, Pengfei Luo, Ziwei Zhao, Tong Xu, Aakas Lizhiyu, Yu Yu, Xueying Li, Enhong Chen"
+      venue: "In Proceedings of the 28th International Conference on Database Systems for Advanced Applications (**DASFAA 2023**), 2023."
+      links:
+        - name: Link
+          url: https://link.springer.com/chapter/10.1007/978-3-031-30675-4_3
+        - name: Code
+          url: https://github.com/xizhu1022/FSLP-EBSNs
+        - name: Competition
+          url: https://tianchi.aliyun.com/competition/entrance/532073/information
+
+    - title: "Semantic Interaction Matching Network for Few-shot Knowledge Graph Completion"
+      authors: "Pengfei Luo, Xi Zhu, Tong Xu, Yi Zheng, Enhong Chen"
+      venue: "In ACM Transactions on the Web (**ACM TWEB**), 2022."
+      links:
+        - name: Link
+          url: https://dl.acm.org/doi/10.1145/3589557
+        - name: Code
+          url: https://github.com/pengfei-luo/SIM
+
+- section: Recommender Systems
+  papers:
+    - title: "Recommender Systems Meet Large Language Model Agents: A Survey"
+      authors: 'Xi Zhu\*, Yu Wang\*, Hang Gao\*, Wujiang Xu\*, Chen Wang, Zhiwei Liu, Kun Wang, Mingyu Jin, Linsey Pang, Qingsong Wen, Philips S. Yu, Yongfeng Zhang'
+      venue: "In Foundations and Trends in Privacy and Security, 2025."
+      links:
+        - name: Link
+          url: https://www.nowpublishers.com/article/Details/SEC-050
+        - name: pdf
+          url: papers/SEC-050.pdf
+
+    - title: "Token-level Collaborative Alignment for LLM-based Generative Recommendation"
+      authors: "Fake Lin, Binbin Hu, Zhi Zheng, Xi Zhu, Ziqi Liu, Zhiqiang Zhang, Jun Zhou, Tong Xu"
+      venue: "In Proceedings of the Web Conference 2026 (**WWW 2026**), 2026."
+      links:
+        - name: Link
+          url: https://arxiv.org/abs/2601.18457
+        - name: Code
+          url: https://github.com/critical88/TCA4Rec
+
+    - title: "Multi-Behavior Recommendation with Personalized Directed Acyclic Behavior Graphs"
+      authors: "Xi Zhu, Fake Lin, Ziwei Zhao, Tong Xu, Xiangyu Zhao, Zikai Yin, Xueying Li, Enhong Chen"
+      venue: "In ACM Transactions on Information Systems (**ACM TOIS**), 2024."
+      links:
+        - name: Link
+          url: https://dl.acm.org/doi/10.1145/3696417
+        - name: Code
+          url: https://github.com/xizhu1022/DA-GCN
+
+    - title: "Knowledge Graph Pruning for Recommendation"
+      authors: "Fake Lin, Xi Zhu, Ziwei Zhao, Deqiang Huang, Yu Yu, Xueying Li, Tong Xu, Enhong Chen"
+      venue: "In ACM Transactions on Information Systems (**ACM TOIS**), 2025."
+      links:
+        - name: Link
+          url: https://arxiv.org/abs/2405.11531
+        - name: Code
+          url: https://github.com/critical88/KGPR
+
+    - title: "DynLLM: When Large Language Models meet Dynamic Graph Recommendation"
+      authors: "Ziwei Zhao, Fake Lin, Xi Zhu, Zhi Zheng, Tong Xu, Shitian Shen, Xueying Li, Zikai Yin, Enhong Chen"
+      venue: "In ACM Transactions on Information Systems (**ACM TOIS**), 2025."
+      links:
+        - name: Link
+          url: https://dl.acm.org/doi/abs/10.1145/3786601
+        - name: Code
+          url: https://github.com/meteor-gif/DynLLM
+
+    - title: "When Box Meets Graph Convolutional Network in Tag-aware Recommendation"
+      authors: "Fake Lin, Ziwei Zhao, Xi Zhu, Da Zhang, Shitian Shen, Xueying Li, Tong Xu, Suojuan Zhang, Enhong Chen"
+      venue: "In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**), 2024."
+      links:
+        - name: Link
+          url: https://arxiv.org/abs/2406.12020
+        - name: Code
+          url: https://github.com/critical88/BoxGNN
+
+    - title: "Time-interval Aware Share Recommendation via Bi-directional Continuous Time Dynamic Graphs"
+      authors: "Ziwei Zhao, Xi Zhu, Tong Xu, Aakas Lizhiyu, Yu Yu, Xueying Li, Zikai Yin, Enhong Chen"
+      venue: "In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**), 2023."
+      links:
+        - name: Link
+          url: https://dl.acm.org/doi/10.1145/3539618.3591775
+        - name: Code
+          url: https://github.com/meteor-gif/DynShare
+
+    - title: "H3GNN: Hybrid Hierarchical HyperGraph Neural Network for Personalized Session-based Recommendation"
+      authors: "Zhizhuo Yin, Kai Han, Pengzi Wang, Xi Zhu"
+      venue: "In ACM Transactions on Information Systems (**ACM TOIS**), 2023."
+      links:
+        - name: Link
+          url: https://dl.acm.org/doi/10.1145/3630002
