@@ -3,8 +3,17 @@
 # authors string is automatically bolded/underlined by the page template.
 - section: RAG and LLM Agents
   papers:
+    - title: "Trust or Abstain? A Self-Aware RAG Approach"
+      authors: "Xi Zhu, Ziqi Wang, Kai Mei, Wujiang Xu, Minghao Guo, Bangji Yang, Jiajun Fan, Dimitris N. Metaxas"
+      venue: "arXiv:2605.18792."
+      links:
+        - name: Link
+          url: https://arxiv.org/abs/2605.18792
+        - name: Code
+          url: https://github.com/xizhu1022/SABER
+
     - title: "RAGRouter-Bench: A Dataset and Benchmark for Adaptive RAG Routing"
-      authors: "Ziqi Wang, Xi Zhu, Shuhang Lin, Haochen Xue, Minghao Guo, Yongfeng Zhang"
+      authors: 'Ziqi Wang\*, Xi Zhu\*, Shuhang Lin, Haochen Xue, Minghao Guo, Yongfeng Zhang'
       venue: "arXiv:2602.00296."
       links:
         - name: Link
@@ -55,6 +64,7 @@
           url: https://arxiv.org/abs/2511.02919
 
     - title: "LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS"
+      hidden: true  # hidden on the homepage per origin/main (kept here for easy re-enable)
       authors: "Kai Mei, Xi Zhu, Hang Gao, Shuhang Lin, Yongfeng Zhang"
       venue: "arXiv:2505.18829."
       links:
