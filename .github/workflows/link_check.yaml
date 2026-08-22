@@ -1,0 +1,35 @@
+name: Check Links
+
+on:
+  schedule:
+    - cron: '0 6 1 * *' # monthly, 1st day 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  linkcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # 403/429 usually mean the site blocks bots, not a dead link.
+          # scholar.google.com always blocks crawlers, so skip it entirely.
+          args: >-
+            --no-progress
+            --accept '100..=103,200..=299,403,429'
+            --exclude 'scholar.google.com'
+            _pages/about.md _data/publications.yml README.md
+          fail: false
+      - name: Open issue if broken links were found
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Broken links found on homepage
+          content-filepath: ./lychee/out.md
+          labels: automated
