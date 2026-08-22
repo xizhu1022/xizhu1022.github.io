@@ -23,7 +23,7 @@ I am a second-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Sc
 
 <a href='https://scholar.google.com/citations?user=_Ev2VPoAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-<p style="color: black;">I am always looking for internship and collaboration opportunities. Feel free to connect and check out my CV <a href='files/CV.pdf'>here</a> (Aug 2026).</p>
+<p style="color: black;">I am currently seeking internship opportunities for Spring and Summer 2027. Feel free to connect, and check out my CV <a href='files/CV.pdf'>here</a> (Aug 2026).</p>
 
 # Selected Publications 
 {% for section in site.data.publications %}

@@ -19,7 +19,7 @@
       authors: "Xi Zhu, Zhuoqiao Shen, Ziqi Wang, Shuhang Lin, Minghao Guo, Yongfeng Zhang"
       venue: "Preprint."
 
-    - title: "AEL: Agent Evolving Learning for Open-Ended Environments"
+    - title: "AEL: Agent Evolving Learning for Open-ended Environments"
       authors: "Wujiang Xu, Jiaojiao Han, Minghao Guo, Kai Mei, Xi Zhu, Han Zhang, Dimitris N. Metaxas"
       venue: "In Findings of the 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**), 2026."
       links:
@@ -29,14 +29,14 @@
           url: https://github.com/WujiangXu/AEL
 
     - title: "Individual Turing Test: A Case Study of LLM-based Simulation Using Longitudinal Personal Data"
-      authors: "Minghao Guo, Ziyi Ye, Wujiang Xu, Xi Zhu, Weihang Su, Shuqi Zhu, Yujia Zhou, Yongfeng Zhang, Qingyao Ai, Yiqun Liu"
+      authors: "Minghao Guo, Ziyi Ye, Wujiang Xu, Xi Zhu, Wenyue Hua, Dimitris N. Metaxas"
       venue: "In Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2026**), 2026."
       links:
         - name: Link
           url: https://arxiv.org/abs/2603.01289
 
     - title: "TwinVoice: A Multi-dimensional Benchmark Towards Digital Twins via LLM Persona Simulation"
-      authors: "Bangde Du, Minghao Guo, Songming He, Ziyi Ye, Xi Zhu, Wenyue Hua, Dimitris N. Metaxas"
+      authors: "Bangde Du, Minghao Guo, Songming He, Ziyi Ye, Xi Zhu, Weihang Su, Shuqi Zhu, Yujia Zhou, Yongfeng Zhang, Qingyao Ai, Yiqun Liu"
       venue: "In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (**ACL 2026**), 2026."
       links:
         - name: Link
@@ -66,7 +66,7 @@
         - name: Link
           url: https://arxiv.org/abs/2511.02919
 
-    - title: "LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS"
+    - title: "LiteCUA: Computer as MCP Server for Computer-use Agent on AIOS"
       hidden: true # not shown on the homepage
       authors: "Kai Mei, Xi Zhu, Hang Gao, Shuhang Lin, Yongfeng Zhang"
       venue: "arXiv:2505.18829."
@@ -142,13 +142,15 @@
 - section: Recommender Systems
   papers:
     - title: "Recommender Systems Meet Large Language Model Agents: A Survey"
-      authors: 'Xi Zhu\*, Yu Wang\*, Hang Gao\*, Wujiang Xu\*, Chen Wang, Zhiwei Liu, Kun Wang, Mingyu Jin, Linsey Pang, Qingsong Wen, Philips S. Yu, Yongfeng Zhang'
+      authors: 'Xi Zhu\*, Yu Wang\*, Hang Gao\*, Wujiang Xu\*, Chen Wang, Zhiwei Liu, Kun Wang, Mingyu Jin, Linsey Pang, Qingsong Wen, Philip S. Yu, Yongfeng Zhang'
       venue: "In Foundations and Trends in Privacy and Security, 2025."
       links:
         - name: Link
           url: https://www.nowpublishers.com/article/Details/SEC-050
         - name: pdf
           url: files/SEC-050.pdf
+        - name: Code
+          url: https://github.com/agiresearch/AgentRecSys
 
     - title: "Token-level Collaborative Alignment for LLM-based Generative Recommendation"
       authors: "Fake Lin, Binbin Hu, Zhi Zheng, Xi Zhu, Ziqi Liu, Zhiqiang Zhang, Jun Zhou, Tong Xu"
@@ -169,7 +171,7 @@
           url: https://github.com/xizhu1022/DA-GCN
 
     - title: "Knowledge Graph Pruning for Recommendation"
-      authors: "Fake Lin, Xi Zhu, Ziwei Zhao, Deqiang Huang, Yu Yu, Xueying Li, Tong Xu, Enhong Chen"
+      authors: "Fake Lin, Xi Zhu, Ziwei Zhao, Deqiang Huang, Yu Yu, Xueying Li, Zhi Zheng, Tong Xu, Enhong Chen"
       venue: "In ACM Transactions on Information Systems (**ACM TOIS**), 2025."
       links:
         - name: Link
@@ -177,7 +179,7 @@
         - name: Code
           url: https://github.com/critical88/KGPR
 
-    - title: "DynLLM: When Large Language Models meet Dynamic Graph Recommendation"
+    - title: "DynLLM: When Large Language Models Meet Dynamic Graph Recommendation"
       authors: "Ziwei Zhao, Fake Lin, Xi Zhu, Zhi Zheng, Tong Xu, Shitian Shen, Xueying Li, Zikai Yin, Enhong Chen"
       venue: "In ACM Transactions on Information Systems (**ACM TOIS**), 2025."
       links:
@@ -186,7 +188,7 @@
         - name: Code
           url: https://github.com/meteor-gif/DynLLM
 
-    - title: "When Box Meets Graph Convolutional Network in Tag-aware Recommendation"
+    - title: "When Box Meets Graph Neural Network in Tag-aware Recommendation"
       authors: "Fake Lin, Ziwei Zhao, Xi Zhu, Da Zhang, Shitian Shen, Xueying Li, Tong Xu, Suojuan Zhang, Enhong Chen"
       venue: "In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**), 2024."
       links:
@@ -204,7 +206,7 @@
         - name: Code
           url: https://github.com/meteor-gif/DynShare
 
-    - title: "H3GNN: Hybrid Hierarchical HyperGraph Neural Network for Personalized Session-based Recommendation"
+    - title: "H3GNN: Hybrid Hierarchical Hypergraph Neural Network for Personalized Session-based Recommendation"
       authors: "Zhizhuo Yin, Kai Han, Pengzi Wang, Xi Zhu"
       venue: "In ACM Transactions on Information Systems (**ACM TOIS**), 2023."
       links:
