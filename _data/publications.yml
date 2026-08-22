@@ -1,6 +1,8 @@
 # Publication list rendered on the homepage (_pages/about.md).
 # To add a paper, append an entry under the right section; "Xi Zhu" in the
 # authors string is automatically bolded/underlined by the page template.
+# Entries render in file order. Add "hidden: true" to keep an entry here
+# without showing it on the page.
 - section: RAG and LLM Agents
   papers:
     - title: "Trust or Abstain? A Self-Aware RAG Approach"
@@ -12,18 +14,8 @@
         - name: Code
           url: https://github.com/xizhu1022/SABER
 
-    - title: "RAGRouter-Bench: A Dataset and Benchmark for Adaptive RAG Routing"
-      authors: 'Ziqi Wang\*, Xi Zhu\*, Shuhang Lin, Haochen Xue, Minghao Guo, Yongfeng Zhang'
-      venue: "arXiv:2602.00296."
-      links:
-        - name: Link
-          url: https://arxiv.org/abs/2602.00296
-        - name: Code
-          url: https://github.com/ziqiwang0908/RAGRouter-Bench
-        - name: Dataset
-          url: https://huggingface.co/datasets/Chaplain0908/RAGRouter
-
     - title: "Towards a Tokenomics-Driven Decentralized Ecosystem for Agent Society"
+      hidden: true # not shown on the homepage
       authors: "Xi Zhu, Zhuoqiao Shen, Ziqi Wang, Shuhang Lin, Minghao Guo, Yongfeng Zhang"
       venue: "Preprint."
 
@@ -56,6 +48,17 @@
         - name: Project
           url: https://twinvoice.github.io/
 
+    - title: "RAGRouter-Bench: A Dataset and Benchmark for Adaptive RAG Routing"
+      authors: 'Ziqi Wang\*, Xi Zhu\*, Shuhang Lin, Haochen Xue, Minghao Guo, Yongfeng Zhang'
+      venue: "arXiv:2602.00296."
+      links:
+        - name: Link
+          url: https://arxiv.org/abs/2602.00296
+        - name: Code
+          url: https://github.com/ziqiwang0908/RAGRouter-Bench
+        - name: Dataset
+          url: https://huggingface.co/datasets/Chaplain0908/RAGRouter
+
     - title: "Cache Mechanism for Agent RAG Systems"
       authors: "Shuhang Lin, Zhencan Peng, Lingyao Li, Xiao Lin, Xi Zhu, Yongfeng Zhang"
       venue: "In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (**ACL 2026**), 2026."
@@ -64,7 +67,7 @@
           url: https://arxiv.org/abs/2511.02919
 
     - title: "LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS"
-      hidden: true  # hidden on the homepage per origin/main (kept here for easy re-enable)
+      hidden: true # not shown on the homepage
       authors: "Kai Mei, Xi Zhu, Hang Gao, Shuhang Lin, Yongfeng Zhang"
       venue: "arXiv:2505.18829."
       links:
