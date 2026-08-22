@@ -26,6 +26,8 @@ I am a second-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Sc
 <p style="color: black;">I am currently seeking internship opportunities for Spring and Summer 2027. Feel free to connect, and check out my CV <a href='files/CV.pdf'>here</a> (Aug 2026).</p>
 
 # Selected Publications 
+
+(\* denotes equal contribution)
 {% for section in site.data.publications %}
 ## {{ section.section }}
 {% for paper in section.papers %}{% unless paper.hidden %}
