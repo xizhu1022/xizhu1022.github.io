@@ -1,23 +1,20 @@
-# main links links
-
-#  - title: "News"
-#    url: "/#-news"
-
-#  - title: "Publications"
-#    url: "/#-publications"
-
-#  - title: "Honors and Awards"
-#    url: "/#-honors-and-awards"
-
-#  - title: "Educations"
-#    url: "/#-educations"
-
-#  - title: "Invited Talks"
-#    url: "/#-invited-talks"
-
-#  - title: "Internships"
-#    url: "/#-internships"
-
+# Top navigation bar. Anchors must match the auto-generated heading ids
+# in _pages/about.md (kramdown lowercases the heading and hyphenates spaces).
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "Publications"
+    url: "/#selected-publications"
+
+  - title: "Education"
+    url: "/#education"
+
+  - title: "Internships"
+    url: "/#internship-experiences"
+
+  - title: "Teaching"
+    url: "/#teaching-experiences"
+
+  - title: "Service"
+    url: "/#academic-service"
+
+  - title: "Awards"
+    url: "/#honors-and-awards"
