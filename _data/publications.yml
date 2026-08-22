@@ -98,7 +98,7 @@
       venue: "In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**), 2026."
       links:
         - name: Link
-          url: https://arxiv.org/abs/2503.03313v2
+          url: https://arxiv.org/abs/2503.03313
         - name: Code
           url: https://github.com/agiresearch/PromptGFM
 
