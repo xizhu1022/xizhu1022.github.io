@@ -105,6 +105,13 @@
         - name: Code
           url: https://github.com/agiresearch/PromptGFM
 
+    - title: "MENDNet: Memory-Enhanced Dependency Network for Multistock Movement Prediction"
+      authors: "Che Liu, Zhi Zheng, Pengfei Luo, Xi Zhu, Tong Xu, Enhong Chen"
+      venue: "In IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**), 2026."
+      links:
+        - name: Link
+          url: https://ieeexplore.ieee.org/document/11598756
+
     - title: "Adversarial Attack and Defense on Discrete Time Dynamic Graphs"
       authors: "Ziwei Zhao, Yu Yang, Zikai Yin, Tong Xu, Xi Zhu, Fake Lin, Xueying Li, Enhong Chen"
       venue: "In IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2024."
