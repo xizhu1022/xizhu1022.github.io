@@ -5,7 +5,7 @@
 # without showing it on the page.
 - section: RAG and LLM Agents
   papers:
-    - title: "Trust or Abstain? A Self-Aware RAG Approach"
+    - title: "Trust or Abstain? A Self-Aware RAG Approach under Knowledge Conflicts"
       authors: "Xi Zhu, Ziqi Wang, Kai Mei, Wujiang Xu, Minghao Guo, Bangji Yang, Jiajun Fan, Dimitris N. Metaxas"
       venue: "arXiv:2605.18792."
       links:
