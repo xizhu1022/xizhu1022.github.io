@@ -59,7 +59,7 @@ I am a second-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Sc
 
 # Academic Service
 - Reviewer: ACM TOIS, IEEE TKDE, IEEE TNNLS
-- PC Member: RecSys 2024/2025/2026, WWW 2025, KDD 2025/2026, NeurIPS 2025, SIGIR 2026
+- PC Member: RecSys, WWW, KDD, SIGIR, NeurIPS, EMNLP
 
 # Honors and Awards
 - National Scholarship, *Dec 2019*

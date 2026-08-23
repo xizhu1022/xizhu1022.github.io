@@ -73,8 +73,6 @@
       links:
         - name: Link
           url: https://arxiv.org/abs/2505.18829
-        - name: Code
-          url: https://github.com/agiresearch/LiteCUA
 
     - title: "AIOS: LLM Agent Operating System"
       authors: "Kai Mei, Xi Zhu, Wujiang Xu, Wenyue Hua, Mingyu Jin, Zelong Li, Shuyuan Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang"
