@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: '0 8 * * *'
   workflow_dispatch:
+  push:
+    paths:
+      - 'google_scholar_crawler/**'
+      - '.github/workflows/google_scholar_crawler.yaml'
 
 permissions:
   contents: write
