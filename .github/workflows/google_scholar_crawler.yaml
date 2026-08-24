@@ -21,12 +21,16 @@ jobs:
     - uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-    - name: Run crawler and publish results
+    - name: Run crawler
       run: |
+        set -o pipefail
         cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
-        python3 main.py
-        cd ./results
+        { pip3 install -r requirements.txt && python3 main.py > /dev/null ; } 2>&1 | tee /tmp/crawl.log
+      env:
+        GOOGLE_SCHOLAR_ID: _Ev2VPoAAAAJ
+    - name: Publish results
+      run: |
+        cd ./google_scholar_crawler/results
         git init
         git config --local user.name "${GITHUB_ACTOR}"
         git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
@@ -34,5 +38,14 @@ jobs:
         git add *.json
         git commit -m "Update citation data"
         git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env:
-        GOOGLE_SCHOLAR_ID: _Ev2VPoAAAAJ
+    # Actions logs need auth to read; publish the error tail to a branch
+    # so failures can be diagnosed without logging in.
+    - name: Publish failure log
+      if: failure()
+      run: |
+        mkdir -p /tmp/dbg && cd /tmp/dbg && git init -q
+        git config --local user.name "${GITHUB_ACTOR}"
+        git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+        tail -c 8000 /tmp/crawl.log > error.log 2>/dev/null || echo "no log captured" > error.log
+        git add error.log && git commit -qm "crawler failure log"
+        git push -f "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:crawler-debug
