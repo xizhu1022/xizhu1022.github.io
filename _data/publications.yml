@@ -60,6 +60,7 @@
           url: https://huggingface.co/datasets/Chaplain0908/RAGRouter
 
     - title: "Cache Mechanism for Agent RAG Systems"
+      hidden: true # not shown on the homepage
       authors: "Shuhang Lin, Zhencan Peng, Lingyao Li, Xiao Lin, Xi Zhu, Yongfeng Zhang"
       venue: "In Findings of the 64th Annual Meeting of the Association for Computational Linguistics (**ACL 2026**), 2026."
       links:

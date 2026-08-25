@@ -19,7 +19,7 @@ redirect_from:
 
 # Bio
 
-I am a second-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Science</a> at <a href='http://www.rutgers.edu/'>Rutgers University</a>. My research interests include graph machine learning, recommender systems, and large language models and agents. Recently, I am interested in adaptive RAG, self-evolving and continued learning for LLM agents.
+I am a third-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Science</a> at <a href='http://www.rutgers.edu/'>Rutgers University</a>. My research interests include graph machine learning, recommender systems, and large language models and agents. Recently, I am interested in adaptive RAG, self-evolving and continued learning for LLM agents.
 
 <a href='https://scholar.google.com/citations?user=_Ev2VPoAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
