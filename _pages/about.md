@@ -51,6 +51,8 @@ I am a third-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Sci
 
 
 # Teaching Experiences
+- **Teaching Assistant**, CS535: Pattern Recognition: Theory and Applications, Rutgers University, *2026 Fall*
+
 - **Teaching Assistant**, CS527: Database System for Data Science, Rutgers University, *2025 Spring, 2026 Spring*
 
 - **Teaching Assistant**, CS439: Introduction to Data Science, Rutgers University, *2024 Fall, 2025 Fall*
