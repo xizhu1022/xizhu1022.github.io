@@ -43,7 +43,7 @@ I am a third-year Ph.D. student in <a href='http://cs.rutgers.edu/'>Computer Sci
 - **B.E. Student**, 2016 - 2020, <a href='https://en.scu.edu.cn/'>Sichuan University (SCU)</a>, Chengdu, China. <br>**Major:** <a href='https://cs.scu.edu.cn'>Computer Science</a>
 
 # Internship Experiences
-- **Research Scientist Intern**, TikTok, San Jose, CA, *May 2026 - Present* 
+- **Research Scientist Intern**, TikTok, San Jose, CA, *May 2026 - August 2026* 
 
 - **Applied Scientist Intern**, Amazon, Seattle, WA, *May 2025 - August 2025* 
 
