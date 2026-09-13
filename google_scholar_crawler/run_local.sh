@@ -1,24 +1,26 @@
 #!/bin/bash
-# Crawl Google Scholar citation data from this machine and push it to the
-# google-scholar-stats branch. Runs daily via launchd
-# (~/Library/LaunchAgents/com.xizhu.scholar-crawler.plist) as a reliable
-# complement to the GitHub Actions job, whose datacenter IPs Google often
-# blocks.
+# Daily Google Scholar citation crawl from this machine (reliable residential
+# IP; the GitHub Actions job is the cloud counterpart).
+#
+# INSTALL: cp google_scholar_crawler/run_local.sh ~/Library/scholar-crawler/run.sh
+# It must run from ~/Library, NOT from this repo: launchd agents cannot access
+# ~/Documents (macOS TCC privacy protection), which is why it re-downloads
+# main.py from GitHub instead of using the checkout. Scheduled by
+# ~/Library/LaunchAgents/com.xizhu.scholar-crawler.plist; logs to
+# ~/Library/Logs/scholar-crawler.log.
 set -euo pipefail
-REPO="/Users/xizhu/Documents/xizhu1022.github.io"
+WORK="$HOME/Library/scholar-crawler"
+RAW="https://raw.githubusercontent.com/xizhu1022/xizhu1022.github.io/main/google_scholar_crawler/main.py"
 export GOOGLE_SCHOLAR_ID=_Ev2VPoAAAAJ
-
-cd "$REPO/google_scholar_crawler"
+mkdir -p "$WORK" && cd "$WORK"
+/usr/bin/curl -fsSL "$RAW" -o main.py.new && mv main.py.new main.py
+rm -rf results
 /usr/bin/python3 main.py > /dev/null
-
-cd "$REPO"
-/usr/bin/git fetch origin google-scholar-stats 2>/dev/null || true
-b1=$(/usr/bin/git hash-object -w google_scholar_crawler/results/gs_data.json)
-b2=$(/usr/bin/git hash-object -w google_scholar_crawler/results/gs_data_shieldsio.json)
-tree=$(printf "100644 blob %s\tgs_data.json\n100644 blob %s\tgs_data_shieldsio.json\n" "$b1" "$b2" | /usr/bin/git mktree)
-parent=$(/usr/bin/git rev-parse origin/google-scholar-stats 2>/dev/null || /usr/bin/git rev-parse google-scholar-stats)
-commit=$(echo "Update citation data (local)" | /usr/bin/git commit-tree "$tree" -p "$parent")
-/usr/bin/git push origin "$commit":refs/heads/google-scholar-stats --force
-/usr/bin/git branch -f google-scholar-stats "$commit"
-rm -rf google_scholar_crawler/results
-echo "$(date): google-scholar-stats updated to $commit"
+cd results
+/usr/bin/git init -q
+/usr/bin/git config user.name "Xi Zhu"
+/usr/bin/git config user.email "xizhu1022@gmail.com"
+/usr/bin/git add gs_data.json gs_data_shieldsio.json
+/usr/bin/git commit -qm "Update citation data (local)"
+/usr/bin/git push -qf git@github.com:xizhu1022/xizhu1022.github.io.git HEAD:google-scholar-stats
+echo "$(/bin/date): updated $(cat gs_data_shieldsio.json)"
