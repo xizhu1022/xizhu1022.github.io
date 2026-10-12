@@ -1,0 +1,89 @@
+ding roman_numerals-4.1.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting packaging>=23.0 (from sphinx<10,>=6->sphinx-rtd-theme->scholarly==1.7.11->-r requirements.txt (line 2))
+  Downloading packaging-26.3-py3-none-any.whl.metadata (3.5 kB)
+Collecting MarkupSafe>=2.0 (from Jinja2>=3.1->sphinx<10,>=6->sphinx-rtd-theme->scholarly==1.7.11->-r requirements.txt (line 2))
+  Downloading markupsafe-3.0.4-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (2.7 kB)
+Downloading jsonpickle-3.0.4-py3-none-any.whl (39 kB)
+Downloading scholarly-1.7.11-py3-none-any.whl (39 kB)
+Downloading free_proxy-1.2.2-py3-none-any.whl (6.6 kB)
+Downloading httpx-0.27.2-py3-none-any.whl (76 kB)
+Downloading httpcore-1.0.9-py3-none-any.whl (78 kB)
+Downloading lxml-6.1.3-cp311-cp311-manylinux_2_26_x86_64.manylinux_2_28_x86_64.whl (5.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.2/5.2 MB 77.9 MB/s  0:00:00
+Downloading requests-2.34.2-py3-none-any.whl (73 kB)
+Downloading charset_normalizer-3.5.2-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (269 kB)
+Downloading idna-3.20-py3-none-any.whl (69 kB)
+Downloading urllib3-2.8.0-py3-none-any.whl (135 kB)
+Downloading certifi-2026.7.22-py3-none-any.whl (136 kB)
+Downloading h11-0.16.0-py3-none-any.whl (37 kB)
+Downloading pyparsing-3.3.3-py3-none-any.whl (126 kB)
+Downloading anyio-4.15.1-py3-none-any.whl (132 kB)
+Downloading typing_extensions-4.16.0-py3-none-any.whl (45 kB)
+Downloading arrow-1.4.0-py3-none-any.whl (68 kB)
+Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+Downloading six-1.17.0-py2.py3-none-any.whl (11 kB)
+Downloading beautifulsoup4-4.15.0-py3-none-any.whl (109 kB)
+Downloading soupsieve-3.0.3-py3-none-any.whl (41 kB)
+Downloading deprecated-1.3.1-py2.py3-none-any.whl (11 kB)
+Downloading wrapt-2.5.0-cp311-cp311-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl (239 kB)
+Downloading fake_useragent-2.2.0-py3-none-any.whl (161 kB)
+Downloading python_dotenv-1.2.4-py3-none-any.whl (23 kB)
+Downloading PySocks-1.7.1-py3-none-any.whl (16 kB)
+Downloading selenium-4.51.0-py3-none-any.whl (11.8 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 11.8/11.8 MB 104.0 MB/s  0:00:00
+Downloading trio-0.34.0-py3-none-any.whl (511 kB)
+Downloading trio_websocket-0.12.2-py3-none-any.whl (21 kB)
+Downloading websocket_client-1.9.2-py3-none-any.whl (95 kB)
+Downloading attrs-26.1.0-py3-none-any.whl (67 kB)
+Downloading outcome-1.3.0.post0-py2.py3-none-any.whl (10 kB)
+Downloading sniffio-1.3.1-py3-none-any.whl (10 kB)
+Downloading wsproto-1.3.2-py3-none-any.whl (24 kB)
+Downloading sortedcontainers-2.4.0-py2.py3-none-any.whl (29 kB)
+Downloading sphinx_rtd_theme-3.1.0-py2.py3-none-any.whl (7.7 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 7.7/7.7 MB 120.5 MB/s  0:00:00
+Downloading docutils-0.22.4-py3-none-any.whl (633 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 633.2/633.2 kB 157.3 MB/s  0:00:00
+Downloading sphinx-9.0.4-py3-none-any.whl (3.9 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.9/3.9 MB 215.9 MB/s  0:00:00
+Downloading sphinxcontrib_jquery-4.1-py2.py3-none-any.whl (121 kB)
+Downloading alabaster-1.0.0-py3-none-any.whl (13 kB)
+Downloading babel-2.18.0-py3-none-any.whl (10.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10.2/10.2 MB 142.9 MB/s  0:00:00
+Downloading imagesize-2.0.1-py3-none-any.whl (14 kB)
+Downloading jinja2-3.1.6-py3-none-any.whl (134 kB)
+Downloading markupsafe-3.0.4-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (22 kB)
+Downloading packaging-26.3-py3-none-any.whl (129 kB)
+Downloading pygments-2.21.0-py3-none-any.whl (1.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.3/1.3 MB 276.3 MB/s  0:00:00
+Downloading roman_numerals-4.1.0-py3-none-any.whl (7.7 kB)
+Downloading snowballstemmer-3.1.1-py3-none-any.whl (104 kB)
+Downloading sphinxcontrib_applehelp-2.0.0-py3-none-any.whl (119 kB)
+Downloading sphinxcontrib_devhelp-2.0.0-py3-none-any.whl (82 kB)
+Downloading sphinxcontrib_htmlhelp-2.1.0-py3-none-any.whl (98 kB)
+Downloading sphinxcontrib_jsmath-1.0.1-py2.py3-none-any.whl (5.1 kB)
+Downloading sphinxcontrib_qthelp-2.0.0-py3-none-any.whl (88 kB)
+Downloading sphinxcontrib_serializinghtml-2.0.0-py3-none-any.whl (92 kB)
+Downloading tzdata-2026.5-py2.py3-none-any.whl (347 kB)
+Building wheels for collected packages: bibtexparser
+  Building wheel for bibtexparser (pyproject.toml): started
+  Building wheel for bibtexparser (pyproject.toml): finished with status 'done'
+  Created wheel for bibtexparser: filename=bibtexparser-1.4.4-py3-none-any.whl size=43688 sha256=c6a31b89ace6cf6961b935754c64bff3a22beb0988645827457b1cb040e5fc5e
+  Stored in directory: /home/runner/.cache/pip/wheels/0a/71/bc/987abf21a82eaf1d7f684625d30f9aaef7499b788967a40215
+Successfully built bibtexparser
+Installing collected packages: sortedcontainers, wrapt, websocket-client, urllib3, tzdata, typing-extensions, sphinxcontrib-serializinghtml, sphinxcontrib-qthelp, sphinxcontrib-jsmath, sphinxcontrib-htmlhelp, sphinxcontrib-devhelp, sphinxcontrib-applehelp, soupsieve, snowballstemmer, sniffio, six, roman-numerals, python-dotenv, PySocks, pyparsing, Pygments, packaging, MarkupSafe, lxml, jsonpickle, imagesize, idna, h11, fake-useragent, docutils, charset_normalizer, certifi, babel, attrs, alabaster, wsproto, requests, python-dateutil, outcome, Jinja2, httpcore, deprecated, bibtexparser, beautifulsoup4, anyio, trio, sphinx, httpx, free-proxy, arrow, trio-websocket, sphinxcontrib-jquery, sphinx-rtd-theme, selenium, scholarly
+
+Successfully installed Jinja2-3.1.6 MarkupSafe-3.0.4 PySocks-1.7.1 Pygments-2.21.0 alabaster-1.0.0 anyio-4.15.1 arrow-1.4.0 attrs-26.1.0 babel-2.18.0 beautifulsoup4-4.15.0 bibtexparser-1.4.4 certifi-2026.7.22 charset_normalizer-3.5.2 deprecated-1.3.1 docutils-0.22.4 fake-useragent-2.2.0 free-proxy-1.2.2 h11-0.16.0 httpcore-1.0.9 httpx-0.27.2 idna-3.20 imagesize-2.0.1 jsonpickle-3.0.4 lxml-6.1.3 outcome-1.3.0.post0 packaging-26.3 pyparsing-3.3.3 python-dateutil-2.9.0.post0 python-dotenv-1.2.4 requests-2.34.2 roman-numerals-4.1.0 scholarly-1.7.11 selenium-4.51.0 six-1.17.0 sniffio-1.3.1 snowballstemmer-3.1.1 sortedcontainers-2.4.0 soupsieve-3.0.3 sphinx-9.0.4 sphinx-rtd-theme-3.1.0 sphinxcontrib-applehelp-2.0.0 sphinxcontrib-devhelp-2.0.0 sphinxcontrib-htmlhelp-2.1.0 sphinxcontrib-jquery-4.1 sphinxcontrib-jsmath-1.0.1 sphinxcontrib-qthelp-2.0.0 sphinxcontrib-serializinghtml-2.0.0 trio-0.34.0 trio-websocket-0.12.2 typing-extensions-4.16.0 tzdata-2026.5 urllib3-2.8.0 websocket-client-1.9.2 wrapt-2.5.0 wsproto-1.3.2
+attempt 1: setting up a fresh proxy...
+attempt 1 failed: Cannot Fetch from Google Scholar.
+attempt 2: setting up a fresh proxy...
+Traceback (most recent call last):
+  File "/home/runner/work/xizhu1022.github.io/xizhu1022.github.io/google_scholar_crawler/main.py", line 26, in <module>
+    if pg.FreeProxies():
+       ^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/scholarly/_proxy_generator.py", line 550, in FreeProxies
+    proxy = self._proxy_gen(None)  # prime the generator
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/scholarly/_proxy_generator.py", line 518, in _fp_coroutine
+    all_proxies = freeproxy.get_proxy_list()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: FreeProxy.get_proxy_list() missing 1 required positional argument: 'repeat'
