@@ -5,6 +5,17 @@
 # without showing it on the page.
 - section: RAG and LLM Agents
   papers:
+    - title: "Trackable Skill Library Lifecycle Management for Agentic Reinforcement Learning"
+      authors: "Xi Zhu, Yuanlin Duan, Changyi Yang, Kai Mei, Riyang Bao, Shichao Zhu, Dimitris N. Metaxas"
+      venue: "arXiv:2610.25126."
+      links:
+        - name: Link
+          url: https://arxiv.org/abs/2610.25126
+        # The paper advertises this repo but it is still private (404 as of
+        # 2026-10-19); uncomment once it is public.
+        # - name: Code
+        #   url: https://github.com/xizhu1022/TrackRL
+
     - title: "Trust or Abstain? A Self-Aware RAG Approach under Knowledge Conflicts"
       authors: "Xi Zhu, Ziqi Wang, Kai Mei, Wujiang Xu, Minghao Guo, Bangji Yang, Jiajun Fan, Dimitris N. Metaxas"
       venue: "arXiv:2605.18792."
